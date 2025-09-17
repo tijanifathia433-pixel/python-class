@@ -1,0 +1,5 @@
+Now the file is empyth 
+"Name":"Fathia", "Gender":"Female", "Age":"50", "Complexion":"Caramel" 
+Name:Fathia, Gender:Female, Age:50, Complexion:Caramel 
+Name:f\thhj, Gender:xnmhj, Age:6, Complexion:dxnb 
+"Name":Yusuf, Gender:Male, Age:13, Complexion:Dark 

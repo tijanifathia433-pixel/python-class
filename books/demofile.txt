@@ -1,0 +1,12 @@
+
+A virtual environment in Python is an isolated environment on your computer, where you can run and test your Python projects.
+
+It allows you to manage project-specific dependencies without interfering with other projects or the original Python installation.
+
+Think of a virtual environment as a separate container for each Python project. Each container:
+
+My name if Fathyy
+Timberland is my favourite shoe
+I like eating delicious meal
+Money is always essencialMy name if Fathyy
+Timberland is my favourite shoe
