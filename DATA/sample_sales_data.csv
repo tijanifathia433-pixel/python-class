@@ -1,0 +1,51 @@
+Order_ID,Product_Name,Quantity,Unit_Price,Customer_Location,Product_Category,Total_Revenue
+ORD1000,MonitorWireless Mouse,9,129019,Abuja,Accessories,1161171
+ORD1001,Tablet,3,70726,Enugu,Electronics,212178
+ORD1002,Headphones,9,146564,Ibadan,Mobile Devices,1319076
+ORD1003,Headphones,2,120668,Enugu,Mobile Devices,241336
+ORD1004,Tablet,2,11102,Abuja,Electronics,22204
+ORD1005,Tablet,2,186408,Abuja,Mobile Devices,372816
+ORD1006,Tablet,6,123015,Enugu,Mobile Devices,738090
+ORD1007,Headphones,3,31641,Lagos,Mobile Devices,94923
+ORD1008,Keyboard,9,170656,Port Harcourt,Gadgets,1535904
+ORD1009,Headphones,4,168817,Abuja,Computers,675268
+ORD1010,Webcam,1,159165,Enugu,Accessories,159165
+ORD1011,Laptop,4,108746,Enugu,Gadgets,434984
+ORD1012,Laptop Stand,1,187957,Kano,Mobile Devices,187957
+ORD1013,Keyboard,5,41631,Port Harcourt,Electronics,208155
+ORD1014,Phone,4,77991,Ibadan,Mobile Devices,311964
+ORD1015,Laptop Stand,8,9014,Lagos,Computers,72112
+ORD1016,Laptop,8,16093,Ibadan,Mobile Devices,128744
+ORD1017,Webcam,7,23070,Port Harcourt,Electronics,161490
+ORD1018,Webcam,3,40777,Port Harcourt,Computers,122331
+ORD1019,Phone,1,61958,Port Harcourt,Mobile Devices,61958
+ORD1020,Keyboard,1,87074,Ibadan,Computers,87074
+ORD1021,Tablet,3,15729,Port Harcourt,Accessories,47187
+ORD1022,Keyboard,6,181089,Enugu,Accessories,1086534
+ORD1023,Webcam,7,163823,Ibadan,Mobile Devices,1146761
+ORD1024,Headphones,6,110864,Port Harcourt,Computers,665184
+ORD1025,Laptop,6,135858,Enugu,Electronics,815148
+ORD1026,Phone,6,110510,Kano,Mobile Devices,663060
+ORD1027,Laptop,3,59748,Port Harcourt,Accessories,179244
+ORD1028,Charger,6,10801,Ibadan,Accessories,64806
+ORD1029,Charger,8,155262,Abuja,Mobile Devices,1242096
+ORD1030,Keyboard,2,185761,Port Harcourt,Computers,371522
+ORD1031,Webcam,5,187065,Abuja,Accessories,935325
+ORD1032,Webcam,1,34592,Enugu,Computers,34592
+ORD1033,Tablet,1,15647,Kano,Accessories,15647
+ORD1034,Tablet,5,144788,Lagos,Accessories,723940
+ORD1035,Tablet,3,115627,Kano,Gadgets,346881
+ORD1036,Headphones,4,75316,Port Harcourt,Accessories,301264
+ORD1037,Laptop Stand,3,7368,Abuja,Electronics,22104
+ORD1038,MonitorWireless Mouse,1,82575,Abuja,Mobile Devices,82575
+ORD1039,Laptop Stand,1,11655,Ibadan,Mobile Devices,11655
+ORD1040,Laptop,5,75031,Abuja,Computers,375155
+ORD1041,Laptop Stand,6,92922,Ibadan,Accessories,557532
+ORD1042,Headphones,3,191838,Enugu,Electronics,575514
+ORD1043,Laptop,9,129046,Lagos,Computers,1161414
+ORD1044,Laptop Stand,5,149475,Port Harcourt,Gadgets,747375
+ORD1045,Headphones,8,37097,Ibadan,Computers,296776
+ORD1046,MonitorWireless Mouse,1,147038,Lagos,Computers,147038
+ORD1047,Laptop Stand,5,129862,Abuja,Accessories,649310
+ORD1048,Headphones,3,123834,Abuja,Gadgets,371502
+ORD1049,Tablet,1,98848,Lagos,Computers,98848

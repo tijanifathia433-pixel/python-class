@@ -1,0 +1,1533 @@
+Trans. Time,Value Date,Description,Debit/Credit(₦),Balance(₦),Channel,Transaction Reference,Counterparty,,,,
+"OWealth Withdrawal
+2025 Aug 01 11:11:51 01 Aug 2025 +500.00 500.00 E-Channel 250801010200169201697826
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 01 11:11:51,01 Aug 2025,SafeBox Deposit,-500.00,0.00,E-Channel,250801140200169151774234,,,,,
+2025 Aug 01 14:22:29 01 Aug 2025 Airtime -100.00 0.00 E-Channel 250801100100173190303698,,,,,,,,,,,
+2025 Aug 01 14:22:41,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+100.00,100.00,E-Channel,250801010200173045043359,,,,,
+2025 Aug 01 14:22:43 01 Aug 2025 Spend & Save Deposit -20.00 0.00 E-Channel 250801140200173191153438,,,,,,,,,,,
+2025 Aug 01 14:22:44,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+20.00,20.00,E-Channel,250801010200173191167827,,,,,
+"Transfer to Aliu Olamilekan
+2025 Aug 01 15:52:06 01 Aug 2025 -2,000.00 0.00 E-Channel 250801010100175408331860 OPay | 8137388468
+Yunus",,,,,,,,,,,
+2025 Aug 01 15:52:16,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,000.00","2,000.00",E-Channel,250801010200175161440189,,,,,
+"OWealth Withdrawal
+2025 Aug 01 15:52:17 01 Aug 2025 +400.00 400.00 E-Channel 250801010200175161499744
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 01 15:52:17,01 Aug 2025,Spend & Save Deposit,-400.00,0.00,E-Channel,250801140200175207201729,,,,,
+2025 Aug 01 19:55:33 01 Aug 2025 Mobile Data -800.00 0.00 E-Channel 250801110100181263946504,,,,,,,,,,,
+,,OWealth Withdrawal,,,,,,,,,
+,,2025 Aug 01 19:55:44,01 Aug 2025,(Transaction Payment),+800.00,800.00,E-Channel,250801010200181264704955,,,
+,,"OWealth Withdrawal
+2025 Aug 01 19:55:48 01 Aug 2025 +160.00 160.00 E-Channel 250801010200181163582832
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 01 19:55:48,01 Aug 2025,Spend & Save Deposit,-160.00,0.00,E-Channel,250801140200181064367911,,,
+,,"Transfer from MICHAEL MERCY
+2025 Aug 01 21:50:53 01 Aug 2025 +10,000.00 10,000.00 E-Channel 250801010100183718008311 OPay | 9165200665
+ADEGOKE",,,,,,,,,
+,,2025 Aug 01 21:51:04,01 Aug 2025,Electronic Money Transfer Levy,-50.00,"9,950.00",E-Channel,250801550100183718488810,,,
+,,"2025 Aug 01 21:52:04 01 Aug 2025 Auto-save to OWealth Balance -9,950.00 0.00 E-Channel 250801140200183570915818",,,,,,,,,
+,,2025 Aug 02 10:41:37,02 Aug 2025,"Transfer to AZEEMAH STORE -
+AZEEMAH STORE1","-1,300.00",0.00,E-Channel,"APT000032508021041431381131
+85991",MONIE POINT | 5456392180,,
+,,"OWealth Withdrawal
+2025 Aug 02 10:41:43 02 Aug 2025 +1,300.00 1,300.00 E-Channel 250802010200190986207490
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 02 10:41:44,02 Aug 2025,Spend & Save Deposit,-260.00,0.00,E-Channel,250802140200190886519644,,,
+,,"OWealth Withdrawal
+2025 Aug 02 10:41:45 02 Aug 2025 +260.00 260.00 E-Channel 250802010200190862126277
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 02 18:53:02,02 Aug 2025,Transfer to Muhammed Olowo,"-2,100.00",0.00,E-Channel,"10000425080218530913815770
+3651",MONIE POINT | 8000101935,,
+,,"OWealth Withdrawal
+2025 Aug 02 18:53:08 02 Aug 2025 +2,100.00 2,100.00 E-Channel 250802010200201754051789
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 02 18:53:17,02 Aug 2025,Spend & Save Deposit,-420.00,0.00,E-Channel,250802140200201655366681,,,
+,,"OWealth Withdrawal
+2025 Aug 02 18:53:18 02 Aug 2025 +420.00 420.00 E-Channel 250802010200201655387956
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 13:26:06,03 Aug 2025,Transfer to MOHAMMED JAMIU,"-3,100.00",0.00,E-Channel,250803010100215800710218,OPay | 9061927702,,
+,,"OWealth Withdrawal
+2025 Aug 03 13:26:10 03 Aug 2025 +3,100.00 3,100.00 E-Channel 250803010200215702247815
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 13:26:10,03 Aug 2025,Spend & Save Deposit,-620.00,0.00,E-Channel,250803140200215753421504,,,
+,,"OWealth Withdrawal
+2025 Aug 03 13:26:11 03 Aug 2025 +620.00 620.00 E-Channel 250803010200215753432665
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 16:49:15,03 Aug 2025,"Transfer from RAFIU BABATUNDE
+TIJANI","+10,000.00","10,000.00",E-Channel,250803010100219360407906,OPay | 7034295638,,
+,,"2025 Aug 03 16:49:22 03 Aug 2025 Electronic Money Transfer Levy -50.00 9,950.00 E-Channel 250803550100219460565462",,,,,,,,,
+,,2025 Aug 03 16:50:22,03 Aug 2025,Auto-save to OWealth Balance,"-9,950.00",0.00,E-Channel,250803140200219413021270,,,
+,,"Transfer to R.K.O. OLAYIWOLA APT0000325080316555813821
+2025 Aug 03 16:55:53 03 Aug 2025 -10,000.00 0.00 E-Channel MONIE POINT | 8193845269
+VENTURES - Olayiwola ventures 5277955",,,,,,,,,
+,,2025 Aug 03 16:55:57,03 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+10,000.00","10,000.00",E-Channel,250803010200219637508060,,,
+,,"OWealth Withdrawal
+2025 Aug 03 16:55:59 03 Aug 2025 +2,000.00 2,000.00 E-Channel 250803010200219637611797
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 16:55:59,03 Aug 2025,Spend & Save Deposit,"-2,000.00",0.00,E-Channel,250803140200219686758640,,,
+,,"2025 Aug 04 10:04:59 04 Aug 2025 Airtime -3,000.00 0.00 E-Channel 250804100100231124715385",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Aug 04 10:05:05,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,000.00","3,000.00",E-Channel,250804010200231246214096,,,
+,,"OWealth Withdrawal
+2025 Aug 04 10:05:07 04 Aug 2025 +600.00 600.00 E-Channel 250804010200231144646294
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 04 10:05:07,04 Aug 2025,Spend & Save Deposit,-600.00,0.00,E-Channel,250804140200231195496702,,,
+,,2025 Aug 04 13:08:34 04 Aug 2025 Airtime -50.00 0.00 E-Channel 250804100100234833244089,,,,,,,,,
+,,2025 Aug 04 13:08:40,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+50.00,50.00,E-Channel,250804010200234778062032,,,
+,,"OWealth Withdrawal
+2025 Aug 04 13:08:42 04 Aug 2025 +10.00 10.00 E-Channel 250804010200234778188654
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 04 13:08:42,04 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250804140200234884230644,,,
+,,2025 Aug 04 15:55:57 04 Aug 2025 Airtime -500.00 0.00 E-Channel 250804100100238186922854,,,,,,,,,
+,,2025 Aug 04 15:56:02,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+500.00,500.00,E-Channel,250804010200238001463135,,,
+,,2025 Aug 04 15:56:05 04 Aug 2025 Spend & Save Deposit -100.00 0.00 E-Channel 250804140200238151886992,,,,,,,,,
+,,2025 Aug 04 15:56:06,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+100.00,100.00,E-Channel,250804010200237950947677,,,
+,,"2025 Aug 05 17:49:41 05 Aug 2025 Mobile Data -1,000.00 0.00 E-Channel 250805110100261760742623",,,,,,,,,
+,,2025 Aug 05 17:49:45,05 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,000.00","1,000.00",E-Channel,250805010200261760971032,,,
+,,"OWealth Withdrawal
+2025 Aug 05 17:49:47 05 Aug 2025 +200.00 200.00 E-Channel 250805010200261608698317
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 05 17:49:47,05 Aug 2025,Spend & Save Deposit,-200.00,0.00,E-Channel,250805140200261558740281,,,
+,,"2025 Aug 05 18:54:34 05 Aug 2025 Transfer to MORILIAT YISAU -2,000.00 0.00 E-Channel 250805010100263113170231 OPay | 9135036864",,,,,,,,,
+,,2025 Aug 05 18:54:39,05 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,000.00","2,000.00",E-Channel,250805010200263163219008,,,
+,,2025 Aug 05 18:54:48 05 Aug 2025 Spend & Save Deposit -400.00 0.00 E-Channel 250805140200263265929873,,,,,,,,,
+,,2025 Aug 05 18:54:49,05 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+400.00,400.00,E-Channel,250805010200263370259604,,,
+,,"2025 Aug 06 15:41:38 06 Aug 2025 OPay Card Payment -5,100.00 0.00 POS 250806330100279891381886",,,,,,,,,
+,,2025 Aug 06 15:41:38,06 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,100.00","5,100.00",E-Channel,250806010200280017513926,,,
+,,"2025 Aug 07 10:40:18 07 Aug 2025 Transfer to AMINU SIKIRU AYINDE -5,100.00 0.00 E-Channel 250807010100294717243091 OPay | 8060209882",,,,,,,,,
+,,2025 Aug 07 10:40:21,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,100.00","5,100.00",E-Channel,250807010200294919981619,,,
+,,"OWealth Withdrawal
+2025 Aug 07 10:40:22 07 Aug 2025 +1,020.00 1,020.00 E-Channel 250807010200294666495532
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 10:40:22,07 Aug 2025,Spend & Save Deposit,"-1,020.00",0.00,E-Channel,250807140200294717478494,,,
+,,"Transfer to RASHIDAT
+2025 Aug 07 11:38:58 07 Aug 2025 -1,300.00 0.00 E-Channel 250807010100296045291595 OPay | 8036502518
+ABDULRASAQ",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Aug 07 11:39:02,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,300.00","1,300.00",E-Channel,250807010200295994871070,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:39:03 07 Aug 2025 +260.00 260.00 E-Channel 250807010200295893119603
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:39:03,07 Aug 2025,Spend & Save Deposit,-260.00,0.00,E-Channel,250807140200296146391489,,,
+,,"Transfer to OLUYEMI OMOLARA
+2025 Aug 07 11:44:29 07 Aug 2025 -2,000.00 0.00 E-Channel 250807010100296369676639 OPay | 8065875427
+OYEDELE",,,,,,,,,
+,,2025 Aug 07 11:44:33,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,000.00","2,000.00",E-Channel,250807010200296320263302,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:44:34 07 Aug 2025 +400.00 400.00 E-Channel 250807010200296320309128
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:44:34,07 Aug 2025,Spend & Save Deposit,-400.00,0.00,E-Channel,250807140200296320296386,,,
+,,"Transfer to SHUAIB BAGWAI
+2025 Aug 07 11:48:06 07 Aug 2025 -2,500.00 0.00 E-Channel 250807010100296230810957 OPay | 9065244270
+YAHAYA",,,,,,,,,
+,,2025 Aug 07 11:48:12,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,500.00","2,500.00",E-Channel,250807010200296281753785,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:48:13 07 Aug 2025 +500.00 500.00 E-Channel 250807010200296179996432
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:48:13,07 Aug 2025,Spend & Save Deposit,-500.00,0.00,E-Channel,250807140200296281779919,,,
+,,2025 Aug 07 12:08:21 07 Aug 2025 Airtime -50.00 0.00 E-Channel 250807100100296705352981,,,,,,,,,
+,,2025 Aug 07 12:08:25,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+50.00,50.00,E-Channel,250807010200296554485537,,,
+,,"OWealth Withdrawal
+2025 Aug 07 12:08:27 07 Aug 2025 +10.00 10.00 E-Channel 250807010200296705705171
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 12:08:27,07 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250807140200296655902026,,,
+,,"Transfer to AZEEMAH STORE - 10000425080712133313848696
+2025 Aug 07 12:13:27 07 Aug 2025 -17,600.00 0.00 E-Channel MONIE POINT | 5456392180
+AZEEMAH STORE1 7051",,,,,,,,,
+,,2025 Aug 07 12:13:33,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+17,600.00","17,600.00",E-Channel,250807010200296928432892,,,
+,,"2025 Aug 07 12:13:34 07 Aug 2025 Spend & Save Deposit -3,520.00 0.00 E-Channel 250807140200296928522116",,,,,,,,,
+,,2025 Aug 07 12:13:35,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,520.00","3,520.00",E-Channel,250807010200296928534499,,,
+,,"Transfer from TIJANI RAFIU 000013250808095326000336 Guaranty Trust Bank |
+2025 Aug 08 08:53:26 08 Aug 2025 +5,000.00 5,000.00 E-Channel
+BABATUNDE 267533 0156619645",,,,,,,,,
+,,2025 Aug 08 08:54:28,08 Aug 2025,Auto-save to OWealth Balance,"-5,000.00",0.00,E-Channel,250808140200313507715286,,,
+,,"OWealth Withdrawal
+2025 Aug 08 11:10:52 08 Aug 2025 +500.00 500.00 E-Channel 250808010200316364693038
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 08 11:10:52,08 Aug 2025,SafeBox Deposit,-500.00,0.00,E-Channel,250808140200316444656517,,,
+,,"2025 Aug 08 12:28:27 08 Aug 2025 OPay Card Payment -5,100.00 0.00 POS 250808330100318029925214",,,,,,,,,
+,,2025 Aug 08 12:28:27,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,100.00","5,100.00",E-Channel,250808010200318029933988,,,
+,,,,,,,,,,,
+,,"2025 Aug 08 13:24:34 08 Aug 2025 Transfer to ABDULGANIYU -5,100.00 0.00 E-Channel 250808180100319026183696 OPay | 7033896911
+AYOBAMI ABDULKAREEM",,,,,,,,,
+,,2025 Aug 08 13:24:38,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,100.00","5,100.00",E-Channel,250808010200318895161487,,,
+,,"Transfer to POS Transfer- APT0000325080814315313857
+2025 Aug 08 14:31:48 08 Aug 2025 -3,100.00 0.00 E-Channel MONIE POINT | 5964797989
+OGUNMILUYI DUNSI OPEYEMI 2018104",,,,,,,,,
+,,2025 Aug 08 14:31:53,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,100.00","3,100.00",E-Channel,250808010200320406364877,,,
+,,2025 Aug 08 14:31:54 08 Aug 2025 Spend & Save Deposit -620.00 0.00 E-Channel 250808140200320281529400,,,,,,,,,
+,,2025 Aug 08 14:31:55,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+620.00,620.00,E-Channel,250808010200320436384784,,,
+,,2025 Aug 08 15:13:47 08 Aug 2025 Airtime -50.00 0.00 E-Channel 250808100100321090384700,,,,,,,,,
+,,2025 Aug 08 15:13:50,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+50.00,50.00,E-Channel,250808010200321316976481,,,
+,,"OWealth Withdrawal
+2025 Aug 08 15:13:52 08 Aug 2025 +10.00 10.00 E-Channel 250808010200321090698908
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 08 15:13:52,08 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250808140200321192162974,,,
+,,"2025 Aug 09 09:27:08 09 Aug 2025 Transfer to MORILIAT YISAU -1,500.00 0.00 E-Channel 250809010100335452956383 OPay | 9135036864",,,,,,,,,
+,,2025 Aug 09 09:27:16,09 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,500.00","1,500.00",E-Channel,250809010200335352362394,,,
+,,"OWealth Withdrawal
+2025 Aug 09 09:27:16 09 Aug 2025 +300.00 300.00 E-Channel 250809010200335266172638
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 09 09:27:16,09 Aug 2025,Spend & Save Deposit,-300.00,0.00,E-Channel,250809140200335403330546,,,
+,,2025 Aug 11 07:52:39 11 Aug 2025 Airtime -50.00 0.00 E-Channel 250811100100373263962269,,,,,,,,,
+,,2025 Aug 11 07:52:43,11 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+50.00,50.00,E-Channel,250811010200373063903169,,,
+,,"OWealth Withdrawal
+2025 Aug 11 07:52:45 11 Aug 2025 +10.00 10.00 E-Channel 250811010200373264242423
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 11 07:52:45,11 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250811140200373023273836,,,
+,,"Transfer from TIJANI FATHIA 00001325081112360800034233 Guaranty Trust Bank |
+2025 Aug 11 11:36:08 11 Aug 2025 +1,000.00 1,000.00 E-Channel
+IYABO 9197 0774390056",,,,,,,,,
+,,2025 Aug 11 11:37:01,11 Aug 2025,"Transfer to THE EYE PLAZA - THE
+EYE PLAZA CLINIC","-3,000.00",0.00,E-Channel,"APT000032508111137051387710
+08314",MONIE POINT | 8206895746,,
+,,"OWealth Withdrawal
+2025 Aug 11 11:37:04 11 Aug 2025 +2,000.00 3,000.00 E-Channel 250811010200377661870582
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 12 09:22:59,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250812010200396199610702,,,
+,,"OWealth Deposit(Transaction
+2025 Aug 12 09:22:59 12 Aug 2025 -200.00 0.00 E-Channel 250812140200396250088881
+Refund)",,,,,,,,,
+,,2025 Aug 12 09:26:06,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250812010200396212603300,,,
+,,,,,,,,,,,
+,,"2025 Aug 12 09:26:07 12 Aug 2025 OWealth Deposit(Transaction -200.00 0.00 E-Channel 250812140200396066810397
+Refund)",,,,,,,,,
+,,2025 Aug 12 09:26:33,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250812010200396265141923,,,
+,,"OWealth Deposit(Transaction
+2025 Aug 12 09:26:33 12 Aug 2025 -200.00 0.00 E-Channel 250812140200396164072153
+Refund)",,,,,,,,,
+,,2025 Aug 12 14:40:03,12 Aug 2025,Airtime,-50.00,0.00,E-Channel,250812100100403437717805,,,
+,,"OWealth Withdrawal
+2025 Aug 12 14:40:09 12 Aug 2025 +50.00 50.00 E-Channel 250812010200403483362058
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 12 14:40:11,12 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250812140200403635175696,,,
+,,"OWealth Withdrawal
+2025 Aug 12 14:40:12 12 Aug 2025 +10.00 10.00 E-Channel 250812010200403533755052
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 13 11:41:31,13 Aug 2025,"Transfer from TIJANI FATHIA
+IYABO",+633.00,633.00,E-Channel,"000013250813124131000346513
+913","Guaranty Trust Bank |
+0774390056",,
+,,"2025 Aug 13 11:42:14 13 Aug 2025 Airtime -1,000.00 0.00 E-Channel 250813100100419784857624",,,,,,,,,
+,,2025 Aug 13 11:42:17,13 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+367.00,"1,000.00",E-Channel,250813010200419785050329,,,
+,,"Transfer from OLOYEDE APT0000225081313484869213
+2025 Aug 13 12:48:49 13 Aug 2025 +100,000.00 100,000.00 E-Channel MONIE POINT | 8218611228
+ISMOOBIS GLOBAL VENTURE 9307708",,,,,,,,,
+,,2025 Aug 13 12:48:51,13 Aug 2025,Electronic Money Transfer Levy,-50.00,"99,950.00",E-Channel,250813550100420876595169,,,
+,,"2025 Aug 13 12:49:51 13 Aug 2025 Auto-save to OWealth Balance -99,950.00 0.00 E-Channel 250813140200420980994679",,,,,,,,,
+,,2025 Aug 13 13:42:10,13 Aug 2025,"Transfer to TIJANI MARYAM
+OLAJUMOKE","-70,000.00",0.00,E-Channel,"10000425081313421913892954
+7741","Guaranty Trust Bank |
+0469003982",,
+,,"OWealth Withdrawal
+2025 Aug 13 13:42:18 13 Aug 2025 +70,000.00 70,000.00 E-Channel 250813010200422063457644
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 13 13:42:20,13 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+14,000.00","14,000.00",E-Channel,250813010200422063538860,,,
+,,"2025 Aug 13 13:42:20 13 Aug 2025 Spend & Save Deposit -14,000.00 0.00 E-Channel 250813140200422076125017",,,,,,,,,
+,,2025 Aug 15 11:10:42,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+500.00,500.00,E-Channel,250815010200460876387139,,,
+,,2025 Aug 15 11:10:42 15 Aug 2025 SafeBox Deposit -500.00 0.00 E-Channel 250815140200461017255432,,,,,,,,,
+,,2025 Aug 15 13:34:50,15 Aug 2025,Airtime,-50.00,0.00,E-Channel,250815100100463846713416,,,
+,,"OWealth Withdrawal
+2025 Aug 15 13:34:53 15 Aug 2025 +50.00 50.00 E-Channel 250815010200463606066970
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 13:34:55,15 Aug 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250815140200463606181077,,,
+,,"OWealth Withdrawal
+2025 Aug 15 13:34:56 15 Aug 2025 +10.00 10.00 E-Channel 250815010200463655927962
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 14:32:33,15 Aug 2025,"Transfer to ABDULAZEEZ
+OLADIMEJI ABDULWAHEED","-2,100.00",0.00,E-Channel,250815010100464919664167,OPay | 9037392878,,
+,,"OWealth Withdrawal
+2025 Aug 15 14:32:41 15 Aug 2025 +2,100.00 2,100.00 E-Channel 250815010200465021440815
+(Transaction Payment)",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Aug 15 14:32:41,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+420.00,420.00,E-Channel,250815010200465071693059,,,
+,,2025 Aug 15 14:32:41 15 Aug 2025 Spend & Save Deposit -420.00 0.00 E-Channel 250815140200465021469256,,,,,,,,,
+,,2025 Aug 15 15:29:02,15 Aug 2025,Transfer to TIJANI FATHIA IYABO,"-20,000.00",0.00,E-Channel,"1000042508151529071390843
+83347","Guaranty Trust Bank |
+0774390056",,
+,,"OWealth Withdrawal
+2025 Aug 15 15:29:07 15 Aug 2025 +20,000.00 20,000.00 E-Channel 250815010200466048703555
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 15:29:09,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+4,000.00","4,000.00",E-Channel,250815010200466188979736,,,
+,,"2025 Aug 15 15:29:09 15 Aug 2025 Spend & Save Deposit -4,000.00 0.00 E-Channel 250815140200466138691943",,,,,,,,,
+,,2025 Aug 15 15:29:53,15 Aug 2025,"Transfer from NADIA OPEYEMI
+ABDULAZEEZ","+3,000.00","3,000.00",E-Channel,"10003325081515295212839775
+5866",PalmPay | 7055166351,,
+,,"2025 Aug 15 15:30:54 15 Aug 2025 Auto-save to OWealth Balance -3,000.00 0.00 E-Channel 250815140200466246131557",,,,,,,,,
+,,2025 Aug 15 15:32:30,15 Aug 2025,"Transfer to XPRESSPAYMENT
+/Xpress Payments","-2,700.00",0.00,E-Channel,"10000425081515323613908747
+0245",9PSB | 5532362866,,
+,,"OWealth Withdrawal
+2025 Aug 15 15:32:36 15 Aug 2025 +2,700.00 2,700.00 E-Channel 250815010200466110549787
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 15:32:40,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+540.00,540.00,E-Channel,250815010200466252144005,,,
+,,2025 Aug 15 15:32:40 15 Aug 2025 Spend & Save Deposit -540.00 0.00 E-Channel 250815140200466110786600,,,,,,,,,
+,,2025 Aug 15 15:49:09,15 Aug 2025,"Transfer from NADIA OPEYEMI
+ABDULAZEEZ","+3,000.00","3,000.00",E-Channel,"1000332508151549083730673
+87742",PalmPay | 7055166351,,
+,,"2025 Aug 15 15:50:10 15 Aug 2025 Auto-save to OWealth Balance -3,000.00 0.00 E-Channel 250815140200466620670863",,,,,,,,,
+,,2025 Aug 15 15:55:33,15 Aug 2025,OPay Card Payment,"-1,518.00",0.00,E-Channel,250815330100466744884171,,,
+,,"OWealth Withdrawal
+2025 Aug 15 15:55:33 15 Aug 2025 +1,518.00 1,518.00 E-Channel 250815010200466655153475
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 19:43:58,15 Aug 2025,Airtime,"-3,000.00",0.00,E-Channel,250815100100472222650513,,,
+,,"OWealth Withdrawal
+2025 Aug 15 19:44:03 15 Aug 2025 +3,000.00 3,000.00 E-Channel 250815010200472107310260
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 19:44:05,15 Aug 2025,Spend & Save Deposit,-600.00,0.00,E-Channel,250815140200472173068436,,,
+,,"OWealth Withdrawal
+2025 Aug 15 19:44:06 15 Aug 2025 +600.00 600.00 E-Channel 250815010200472312961227
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 11:31:44,16 Aug 2025,"Transfer to ABDULAZEEZ
+OLADIMEJI ABDULWAHEED","-2,600.00",0.00,E-Channel,250816010100482789848882,OPay | 9037392878,,
+,,"OWealth Withdrawal
+2025 Aug 16 11:31:48 16 Aug 2025 +2,600.00 2,600.00 E-Channel 250816010200482840799329
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 12:58:51,16 Aug 2025,"Transfer from ISE OLUWA ESTATE
+AND PROPERTIES CONSULTANT
+AGENT LTD -","+10,000.00","10,000.00",E-Channel,"APT0000225081613585049213
+9944097",MONIE POINT | 6164165738,,
+,,"2025 Aug 16 12:58:52 16 Aug 2025 Electronic Money Transfer Levy -50.00 9,950.00 E-Channel 250816550100484422411202",,,,,,,,,
+,,2025 Aug 16 12:59:53,16 Aug 2025,Auto-save to OWealth Balance,"-9,950.00",0.00,E-Channel,250816140200484425725885,,,
+,,,,,,,,,,,
+,,"2025 Aug 16 13:17:08 16 Aug 2025 OPay Card Payment -1,518.00 0.00 E-Channel 250816330100484888015811",,,,,,,,,
+,,2025 Aug 16 13:17:08,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,518.00","1,518.00",E-Channel,250816010200484989150240,,,
+,,"APT000032508161341011391452
+2025 Aug 16 13:40:57 16 Aug 2025 Transfer to Monnify Checkout -3,700.00 0.00 E-Channel MONIE POINT | 6862737358
+17269",,,,,,,,,
+,,2025 Aug 16 13:41:01,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,700.00","3,700.00",E-Channel,250816010200485387456249,,,
+,,"OWealth Withdrawal
+2025 Aug 16 13:41:02 16 Aug 2025 +740.00 740.00 E-Channel 250816010200485534728656
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 13:41:02,16 Aug 2025,Spend & Save Deposit,-740.00,0.00,E-Channel,250816140200485336756728,,,
+,,"Transfer to XPRESSPAYMENT 100004250816140021139147991
+2025 Aug 16 14:00:16 16 Aug 2025 -2,700.00 0.00 E-Channel 9PSB | 5532403211
+/Xpress Payments 136",,,,,,,,,
+,,2025 Aug 16 14:00:21,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,700.00","2,700.00",E-Channel,250816010200485808273974,,,
+,,"OWealth Withdrawal
+2025 Aug 16 14:00:24 16 Aug 2025 +540.00 540.00 E-Channel 250816010200485757259131
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 14:00:24,16 Aug 2025,Spend & Save Deposit,-540.00,0.00,E-Channel,250816140200485757243835,,,
+,,"APT00003250816141239139147
+2025 Aug 16 14:12:34 16 Aug 2025 Transfer to Monnify Checkout -3,700.00 0.00 E-Channel MONIE POINT | 6848499968
+619437",,,,,,,,,
+,,2025 Aug 16 14:12:39,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,700.00","3,700.00",E-Channel,250816010200486156580887,,,
+,,"10000425081715522813921374
+2025 Aug 17 15:52:24 17 Aug 2025 Transfer to FAOSIYAH TAJUDEEN -620.00 0.00 E-Channel PalmPay | 7035319174
+7695",,,,,,,,,
+,,2025 Aug 17 15:52:28,17 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+620.00,620.00,E-Channel,250817010200507992967903,,,
+,,"OWealth Withdrawal
+2025 Aug 17 15:52:29 17 Aug 2025 +124.00 124.00 E-Channel 250817010200508091541681
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 17 15:52:29,17 Aug 2025,Spend & Save Deposit,-124.00,0.00,E-Channel,250817140200508172937084,,,
+,,"10000425081716055913921490 First Bank Of Nigeria |
+2025 Aug 17 16:05:53 17 Aug 2025 Transfer to AFEDIA BLESSING -500.00 0.00 E-Channel
+0978 3210719713",,,,,,,,,
+,,2025 Aug 17 16:05:58,17 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+500.00,500.00,E-Channel,250817010200508340774761,,,
+,,"OWealth Withdrawal
+2025 Aug 17 16:06:00 17 Aug 2025 +100.00 100.00 E-Channel 250817010200508340850659
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 17 16:06:00,17 Aug 2025,Spend & Save Deposit,-100.00,0.00,E-Channel,250817140200508163428715,,,
+,,"Transfer to POS Transfer - APT0000325081810093813925
+2025 Aug 18 10:09:34 18 Aug 2025 -2,200.00 0.00 E-Channel MONIE POINT | 8185728222
+FRANCIS UMEIBE 2761827",,,,,,,,,
+,,2025 Aug 18 10:09:38,18 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,200.00","2,200.00",E-Channel,250818010200520839974968,,,
+,,"Transfer from TIJANI FATHIA 00001325081811573700035611 Guaranty Trust Bank |
+2025 Aug 18 10:57:37 18 Aug 2025 +900.00 900.00 E-Channel
+IYABO 4651 0774390056",,,,,,,,,
+,,2025 Aug 18 10:58:38,18 Aug 2025,Auto-save to OWealth Balance,-900.00,0.00,E-Channel,250818140200522129602708,,,
+,,,,,,,,,,,
+,,2025 Aug 18 10:59:11 18 Aug 2025 Transfer to SHAKIRAT GARUBA -700.00 0.00 E-Channel 250818010100522231791417 OPay | 8101156009,,,,,,,,,
+,,2025 Aug 18 10:59:18,18 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+700.00,700.00,E-Channel,250818010200522033789965,,,
+,,"OWealth Withdrawal
+2025 Aug 18 10:59:18 18 Aug 2025 +140.00 140.00 E-Channel 250818010200522131895341
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 18 10:59:18,18 Aug 2025,Spend & Save Deposit,-140.00,0.00,E-Channel,250818140200522282830836,,,
+,,"Transfer from TIJANI FATHIA 00001325081812152100035615 Guaranty Trust Bank |
+2025 Aug 18 11:15:21 18 Aug 2025 +12,000.00 12,000.00 E-Channel
+IYABO 5592 0774390056",,,,,,,,,
+,,2025 Aug 18 11:15:23,18 Aug 2025,Electronic Money Transfer Levy,-50.00,"11,950.00",E-Channel,250818550100522544605951,,,
+,,"2025 Aug 18 11:16:23 18 Aug 2025 Auto-save to OWealth Balance -11,950.00 0.00 E-Channel 250818140200522447798300",,,,,,,,,
+,,2025 Aug 18 11:17:39,18 Aug 2025,"Transfer to HAWAU OTEFON
+GARBA","-11,900.00",0.00,E-Channel,"10000425081811174413925665
+0822","Stanbic-ibtc Bank Plc |
+0068569036",,
+,,"OWealth Withdrawal
+2025 Aug 18 11:17:43 18 Aug 2025 +11,900.00 11,900.00 E-Channel 250818010200522603380628
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 20 17:16:42,20 Aug 2025,"Transfer from TIJANI FATHIA
+IYABO","+7,000.00","7,000.00",E-Channel,"0000132508201816420003610
+45312","Guaranty Trust Bank |
+0774390056",,
+,,"2025 Aug 20 17:17:44 20 Aug 2025 Auto-save to OWealth Balance -7,000.00 0.00 E-Channel 250820140200571404121231",,,,,,,,,
+,,2025 Aug 20 17:18:02,20 Aug 2025,"Transfer to ABDULLAHI OWAYEMI
+SALAM","-5,000.00",0.00,E-Channel,250820010100571648760545,OPay | 8112975565,,
+,,"OWealth Withdrawal
+2025 Aug 20 17:18:06 20 Aug 2025 +5,000.00 5,000.00 E-Channel 250820010200571557686861
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 20 17:18:06,20 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,000.00","1,000.00",E-Channel,250820010200571557732345,,,
+,,"2025 Aug 20 17:18:06 20 Aug 2025 Spend & Save Deposit -1,000.00 0.00 E-Channel 250820140200571557715992",,,,,,,,,
+,,2025 Aug 20 18:31:02,20 Aug 2025,Transfer from HALIMAT TIJANI,"+11,900.00","11,900.00",E-Channel,250820010100573324790660,OPay | 8134750356,,
+,,"2025 Aug 20 18:31:48 20 Aug 2025 Electronic Money Transfer Levy -50.00 11,850.00 E-Channel 250820550100573470025878",,,,,,,,,
+,,2025 Aug 20 18:32:48,20 Aug 2025,Auto-save to OWealth Balance,"-11,850.00",0.00,E-Channel,250820140200573433777105,,,
+,,"Transfer to RUKAYAT
+2025 Aug 21 16:09:19 21 Aug 2025 -600.00 0.00 E-Channel 250821010100590786314723 OPay | 9084968154
+FOLORUNSHO OLAITAN",,,,,,,,,
+,,2025 Aug 21 16:09:26,21 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+600.00,600.00,E-Channel,250821010200590735856416,,,
+,,"OWealth Withdrawal
+2025 Aug 21 16:09:27 21 Aug 2025 +120.00 120.00 E-Channel 250821010200590786815147
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 21 16:09:27,21 Aug 2025,Spend & Save Deposit,-120.00,0.00,E-Channel,250821140200590937274816,,,
+,,"Transfer to (EaseMoni) FATHIA
+2025 Aug 22 04:45:15 22 Aug 2025 -5,000.00 0.00 E-Channel 250822010100599668186211 OPay | 9552489982
+IYABO TIJANI",,,,,,,,,
+,,2025 Aug 22 04:45:19,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,000.00","5,000.00",E-Channel,250822010200599647576902,,,
+,,"OWealth Withdrawal
+2025 Aug 22 04:45:19 22 Aug 2025 +1,000.00 1,000.00 E-Channel 250822010200599645413952
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 04:45:19,22 Aug 2025,Spend & Save Deposit,"-1,000.00",0.00,E-Channel,250822140200599662995426,,,
+,,"Transfer to (EaseMoni) FATHIA
+2025 Aug 22 04:47:29 22 Aug 2025 -3,000.00 0.00 E-Channel 250822010100599630882935 OPay | 9552489982
+IYABO TIJANI",,,,,,,,,
+,,2025 Aug 22 04:47:34,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,000.00","3,000.00",E-Channel,250822010200599663929811,,,
+,,"OWealth Withdrawal
+2025 Aug 22 04:47:35 22 Aug 2025 +600.00 600.00 E-Channel 250822010200599646324291
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 04:47:35,22 Aug 2025,Spend & Save Deposit,-600.00,0.00,E-Channel,250822140200599630916703,,,
+,,"Transfer to BASHIRU
+2025 Aug 22 08:16:37 22 Aug 2025 -2,100.00 0.00 E-Channel 250822010100602098873945 OPay | 7032520780
+OLAREWAJU BADMUS",,,,,,,,,
+,,2025 Aug 22 08:16:42,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,100.00","2,100.00",E-Channel,250822010200601998111065,,,
+,,"OWealth Withdrawal
+2025 Aug 22 08:16:43 22 Aug 2025 +420.00 420.00 E-Channel 250822010200602099240365
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 08:16:43,22 Aug 2025,Spend & Save Deposit,-420.00,0.00,E-Channel,250822140200602099229472,,,
+,,"Transfer from FATHIA BIBITAYO APT00002250822112652171139
+2025 Aug 22 10:26:52 22 Aug 2025 +5,000.00 5,000.00 E-Channel MONIE POINT | 6186151937
+BALOGUN 280921",,,,,,,,,
+,,2025 Aug 22 10:27:54,22 Aug 2025,Auto-save to OWealth Balance,"-5,000.00",0.00,E-Channel,250822140200604815397000,,,
+,,"Transfer to CHINENYE ROSEMARY
+2025 Aug 22 16:14:40 22 Aug 2025 -1,600.00 0.00 E-Channel 250822010100612090810669 OPay | 7041307214
+UNACHUKWU",,,,,,,,,
+,,2025 Aug 22 16:14:45,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,600.00","1,600.00",E-Channel,250822010200611991195296,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:14:45 22 Aug 2025 +320.00 320.00 E-Channel 250822010200611991250079
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:14:45,22 Aug 2025,Spend & Save Deposit,-320.00,0.00,E-Channel,250822140200611991234497,,,
+,,"Transfer to BASHIRU
+2025 Aug 22 16:15:53 22 Aug 2025 -200.00 0.00 E-Channel 250822010100611894369106 OPay | 7032520780
+OLAREWAJU BADMUS",,,,,,,,,
+,,2025 Aug 22 16:15:57,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250822010200612095521912,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:15:58 22 Aug 2025 +40.00 40.00 E-Channel 250822010200611894647992
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:15:58,22 Aug 2025,Spend & Save Deposit,-40.00,0.00,E-Channel,250822140200611894633298,,,
+,,"Transfer to CHINENYE ROSEMARY
+2025 Aug 22 16:17:38 22 Aug 2025 -200.00 0.00 E-Channel 250822010100612357692492 OPay | 7041307214
+UNACHUKWU",,,,,,,,,
+,,2025 Aug 22 16:17:41,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250822010200612106657534,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:17:42 22 Aug 2025 +40.00 40.00 E-Channel 250822010200612207544137
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:17:42,22 Aug 2025,Spend & Save Deposit,-40.00,0.00,E-Channel,250822140200612258089748,,,
+,,"Transfer to BASHIRU
+2025 Aug 22 16:56:24 22 Aug 2025 -2,000.00 0.00 E-Channel 250822010100612961861121 OPay | 7032520780
+OLAREWAJU BADMUS",,,,,,,,,
+,,2025 Aug 22 16:56:29,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,000.00","2,000.00",E-Channel,250822010200613012549984,,,
+,,2025 Aug 22 16:56:29 22 Aug 2025 Spend & Save Deposit -400.00 0.00 E-Channel 250822140200612862401164,,,,,,,,,
+,,2025 Aug 22 16:56:30,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+400.00,400.00,E-Channel,250822010200612761501701,,,
+,,"Transfer to (EaseMoni) FATHIA
+2025 Aug 23 07:15:12 23 Aug 2025 -2,000.00 0.00 E-Channel 250823010100622524930095 OPay | 9552489982
+IYABO TIJANI",,,,,,,,,
+,,2025 Aug 23 07:15:16,23 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","+2,000.00","2,000.00",E-Channel,250823010200622375723339,,,
+,,2025 Aug 23 07:19:21 23 Aug 2025 Spend & Save Deposit -40.00 0.00 E-Channel 250823140200622592565669,,,,,,,,,
+,,2025 Aug 23 07:19:22,23 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+40.00,40.00,E-Channel,250823010200622843842739,,,
+,,"Transfer to (EaseMoni) FATHIA
+2025 Aug 23 07:19:52 23 Aug 2025 -300.00 0.00 E-Channel 250823010100622594008915 OPay | 9552489982
+IYABO TIJANI",,,,,,,,,
+,,2025 Aug 23 07:19:56,23 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+300.00,300.00,E-Channel,250823010200622644982581,,,
+,,"Transfer from BLUE RIDGE
+2025 Aug 24 12:19:33 24 Aug 2025 +15,000.00 15,000.00 E-Channel 250824010200648973992889 OPay | 9552000012
+MICROFINANCE BANK LTD",,,,,,,,,
+,,2025 Aug 24 12:19:33,24 Aug 2025,Electronic Money Transfer Levy,-50.00,"14,950.00",E-Channel,250824550100648974006934,,,
+,,"Transfer to (EaseMoni) FATHIA
+2025 Aug 24 12:54:40 24 Aug 2025 -13,606.00 1,344.00 E-Channel 250824010100649644421223 OPay | 9552489982
+IYABO TIJANI",,,,,,,,,
+,,2025 Aug 24 12:57:45,24 Aug 2025,"Transfer to (OKash) TIJANI
+FATHIA IYABO","-1,000.00",344.00,E-Channel,250824010100649696418866,OPay | 9552000012,,
+,,2025 Aug 24 12:57:49 24 Aug 2025 Spend & Save Deposit -200.00 144.00 E-Channel 250824140200649747507094,,,,,,,,,
+,,2025 Aug 24 21:01:56,24 Aug 2025,Auto-save to OWealth Balance,-144.00,0.00,E-Channel,250824140200659331896736,,,
+,,"Transfer from RASAQ AYINDE 00001425082517205122282521
+2025 Aug 25 16:20:52 25 Aug 2025 +11,830.00 11,830.00 E-Channel Access Bank | 0088316717
+OLOYEDE 8174",,,,,,,,,
+,,2025 Aug 25 16:20:53,25 Aug 2025,Electronic Money Transfer Levy,-50.00,"11,780.00",E-Channel,250825550100673759474753,,,
+,,"2025 Aug 25 16:21:53 25 Aug 2025 Auto-save to OWealth Balance -11,780.00 0.00 E-Channel 250825140200673813716763",,,,,,,,,
+,,2025 Aug 25 18:30:56,25 Aug 2025,Transfer to LAWAL RAMAT,-750.00,0.00,E-Channel,"10000425082518310113973823
+9454","Guaranty Trust Bank |
+0506565419",,
+,,"OWealth Withdrawal
+2025 Aug 25 18:31:00 25 Aug 2025 +750.00 750.00 E-Channel 250825010200676775041091
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 25 18:31:02,25 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+150.00,150.00,E-Channel,250825010200676825474911,,,
+,,2025 Aug 25 18:31:02 25 Aug 2025 Spend & Save Deposit -150.00 0.00 E-Channel 250825140200676825452703,,,,,,,,,
+,,2025 Aug 26 09:27:52,26 Aug 2025,"Transfer to KEHINDE ELISHA
+adeosun","-5,100.00",0.00,E-Channel,250826010100686725464367,OPay | 8102746482,,
+,,"OWealth Withdrawal
+2025 Aug 26 09:27:57 26 Aug 2025 +5,100.00 5,100.00 E-Channel 250826010200686725753960
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 26 09:27:57,26 Aug 2025,Spend & Save Deposit,"-1,020.00",0.00,E-Channel,250826140200686485046553,,,
+,,"OWealth Withdrawal
+2025 Aug 26 09:27:58 26 Aug 2025 +1,020.00 1,020.00 E-Channel 250826010200686725803007
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 27 16:49:09,27 Aug 2025,Airtime,-300.00,0.00,E-Channel,250827100100716926580834,,,
+,,"OWealth Withdrawal
+2025 Aug 27 16:49:13 27 Aug 2025 +300.00 300.00 E-Channel 250827010200716826810976
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 27 16:49:15,27 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+60.00,60.00,E-Channel,250827010200716878011433,,,
+,,2025 Aug 27 16:49:15 27 Aug 2025 Spend & Save Deposit -60.00 0.00 E-Channel 250827140300716779899654,,,,,,,,,
+,,2025 Aug 27 17:52:01,27 Aug 2025,Transfer to Muhammed Olowo,"-1,000.00",0.00,E-Channel,"1000042508271752051398633
+23432",MONIE POINT | 8000101935,,
+,,"OWealth Withdrawal
+2025 Aug 27 17:52:05 27 Aug 2025 +1,000.00 1,000.00 E-Channel 250827010200718300379901
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 27 17:52:06,27 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250827010200718300457683,,,
+,,2025 Aug 27 17:52:06 27 Aug 2025 Spend & Save Deposit -200.00 0.00 E-Channel 250827140300718347478031,,,,,,,,,
+,,2025 Aug 28 13:09:27,28 Aug 2025,Transfer to IFEYINWA ANYADO,"-1,100.00",0.00,E-Channel,250828010100733846033039,OPay | 7032719985,,
+,,"OWealth Withdrawal
+2025 Aug 28 13:09:31 28 Aug 2025 +1,100.00 1,100.00 E-Channel 250828010200733803103158
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 28 13:09:31,28 Aug 2025,Spend & Save Deposit,-220.00,0.00,E-Channel,250828140300733701806551,,,
+,,"OWealth Withdrawal
+2025 Aug 28 13:09:32 28 Aug 2025 +220.00 220.00 E-Channel 250828010200733653137264
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 29 07:58:03,29 Aug 2025,"Transfer to ABDULAZEEZ
+OLADIMEJI ABDULWAHEED","-2,100.00",0.00,E-Channel,250829010100748886031613,OPay | 9037392878,,
+,,"OWealth Withdrawal
+2025 Aug 29 07:58:07 29 Aug 2025 +2,100.00 2,100.00 E-Channel 250829010200749037320332
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 30 10:11:55,30 Aug 2025,Mobile Data,-750.00,0.00,E-Channel,250830110100774032212182,,,
+,,"OWealth Withdrawal
+2025 Aug 30 10:11:59 30 Aug 2025 +750.00 750.00 E-Channel 250830010200774176134016
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 30 10:12:01,30 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",+150.00,150.00,E-Channel,250830010200774075399436,,,
+,,2025 Aug 30 10:12:01 30 Aug 2025 Spend & Save Deposit -150.00 0.00 E-Channel 250830140300774075382559,,,,,,,,,
+,,2025 Aug 31 18:29:08,31 Aug 2025,Transfer to AFEDIA BLESSING,-500.00,0.00,E-Channel,"100004250831185041140131020
+678","First Bank Of Nigeria |
+3210719713",,
+,,"OWealth Withdrawal
+2025 Aug 31 18:50:41 31 Aug 2025 +500.00 500.00 E-Channel 250831010200806206435954
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 01 08:21:42,01 Sep 2025,"Transfer to ABDULAZEEZ
+OLADIMEJI ABDULWAHEED","-2,600.00",0.00,E-Channel,250901010100814008554466,OPay | 9037392878,,
+,,"OWealth Withdrawal
+2025 Sep 01 08:21:48 01 Sep 2025 +2,600.00 2,600.00 E-Channel 250901010200814206461692
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 02 17:38:05,02 Sep 2025,"Transfer from MARYAM
+OLAJUMONKE TIJANI","+5,000.00","5,000.00",E-Channel,250902010100848686549407,OPay | 8166523449,,
+,,"2025 Sep 02 17:39:11 02 Sep 2025 Auto-save to OWealth Balance -5,000.00 0.00 E-Channel 250902140300848639962139",,,,,,,,,
+,,,,Transfer to BASHIRU,,,,,,,
+,,2025 Sep 03 08:02:05,03 Sep 2025,OLAREWAJU BADMUS,"-5,100.00",0.00,E-Channel,250903010100859236638816,OPay | 7057141706,,
+,,"OWealth Withdrawal
+2025 Sep 03 08:02:09 03 Sep 2025 +5,100.00 5,100.00 E-Channel 250903010200859287859790
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 06 14:07:17,06 Sep 2025,"Transfer from RASAQ AYINDE
+OLOYEDE","+100,000.00","100,000.00",E-Channel,"0000142509061507172439354
+03089",Access Bank | 0088316717,,
+,,"2025 Sep 06 14:07:19 06 Sep 2025 Electronic Money Transfer Levy -50.00 99,950.00 E-Channel 250906550100935966752954",,,,,,,,,
+,,2025 Sep 06 14:08:19,06 Sep 2025,Auto-save to OWealth Balance,"-99,950.00",0.00,E-Channel,250906140300936062947454,,,
+,,2025 Sep 06 15:07:19 06 Sep 2025 Airtime -50.00 0.00 E-Channel 250906100100937341382419,,,,,,,,,
+,,2025 Sep 06 15:07:23,06 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+50.00,50.00,E-Channel,250906010200937198443402,,,
+,,"OWealth Withdrawal
+2025 Sep 06 15:07:25 06 Sep 2025 +10.00 10.00 E-Channel 250906010200937198579466
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 06 15:07:25,06 Sep 2025,Spend & Save Deposit,-10.00,0.00,E-Channel,250906140300937198564211,,,
+,,"Transfer to TIJANI MARYAM 10000425090615114114053409 Guaranty Trust Bank |
+2025 Sep 06 15:11:37 06 Sep 2025 -80,000.00 0.00 E-Channel
+OLAJUMOKE 8353 0469003982",,,,,,,,,
+,,2025 Sep 06 15:11:41,06 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+80,000.00","80,000.00",E-Channel,250906010200937162336998,,,
+,,"OWealth Withdrawal
+2025 Sep 06 15:11:42 06 Sep 2025 +16,000.00 16,000.00 E-Channel 250906010200937162418734
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 06 15:11:42,06 Sep 2025,Spend & Save Deposit,"-16,000.00",0.00,E-Channel,250906140300937213394173,,,
+,,2025 Sep 07 16:32:28 07 Sep 2025 Mobile Data -500.00 0.00 E-Channel 250907110100959850640448,,,,,,,,,
+,,2025 Sep 07 16:32:34,07 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+500.00,500.00,E-Channel,250907010200960045147475,,,
+,,"OWealth Withdrawal
+2025 Sep 07 16:32:36 07 Sep 2025 +100.00 100.00 E-Channel 250907010200960045280604
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 07 16:32:36,07 Sep 2025,Spend & Save Deposit,-100.00,0.00,E-Channel,250907140300959800314348,,,
+,,"Transfer to MARIAM FUNMILAYO
+2025 Sep 09 16:46:47 09 Sep 2025 -3,300.00 0.00 E-Channel 250909180100003368569672 OPay | 8106399834
+AHMED",,,,,,,,,
+,,2025 Sep 09 16:46:51,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,300.00","3,300.00",E-Channel,250909010200003469439971,,,
+,,"2025 Sep 09 20:40:32 09 Sep 2025 Airtime -1,000.00 0.00 E-Channel 250909100100009207269609",,,,,,,,,
+,,2025 Sep 09 20:40:36,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,000.00","1,000.00",E-Channel,250909010200009107328546,,,
+,,"2025 Sep 09 20:42:30 09 Sep 2025 Airtime -3,000.00 0.00 E-Channel 250909100100009330813650",,,,,,,,,
+,,2025 Sep 09 20:42:34,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,000.00","3,000.00",E-Channel,250909010200009470071431,,,
+,,"Transfer from MARYAM
+2025 Sep 09 20:47:54 09 Sep 2025 +1,500.00 1,500.00 E-Channel 250909010100009588327874 OPay | 8166523449
+OLAJUMONKE TIJANI",,,,,,,,,
+,,2025 Sep 09 20:48:59,09 Sep 2025,Auto-save to OWealth Balance,"-1,500.00",0.00,E-Channel,250909140300009541610478,,,
+,,"Transfer to LADEMIS INTEGRATED
+APT0000325091016290314079
+2025 Sep 10 16:28:59 10 Sep 2025 SERVICES - LADEMIS INTEGRATED -6,500.00 0.00 E-Channel MONIE POINT | 6330992571",,,,,,,,,
+,,SERVICES 8822768,,,,,,,,,
+,,2025 Sep 10 16:29:02,10 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+6,500.00","6,500.00",E-Channel,250910010200025260461277,,,
+,,"Transfer from RASAQ AYINDE 000014250911184721272353210
+2025 Sep 11 17:47:22 11 Sep 2025 +23,670.00 23,670.00 E-Channel Access Bank | 0088316717
+OLOYEDE 668",,,,,,,,,
+,,2025 Sep 11 17:47:24,11 Sep 2025,Electronic Money Transfer Levy,-50.00,"23,620.00",E-Channel,250911550100049168697326,,,
+,,"2025 Sep 11 17:48:24 11 Sep 2025 Auto-save to OWealth Balance -23,620.00 0.00 E-Channel 250911140300049323858061",,,,,,,,,
+,,2025 Sep 13 07:46:54,13 Sep 2025,OPay Card Payment,"-3,100.00",0.00,POS,250913330100080551337398,,,
+,,"OWealth Withdrawal
+2025 Sep 13 07:46:54 13 Sep 2025 +3,100.00 3,100.00 E-Channel 250913010200080551346330
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 16:51:23,13 Sep 2025,"Transfer from FATHIA BIBITAYO
+BALOGUN","+3,000.00","3,000.00",E-Channel,"APT000022509131751222161391
+78767",MONIE POINT | 6186151937,,
+,,"2025 Sep 13 16:52:24 13 Sep 2025 Auto-save to OWealth Balance -3,000.00 0.00 E-Channel 250913140300092976333946",,,,,,,,,
+,,2025 Sep 13 17:12:01,13 Sep 2025,"Transfer to XPRESSPAYMENT
+/Xpress Payments","-1,012.00",0.00,E-Channel,"10000425091317120614100599
+8795",9PSB | 5533664880,,
+,,"OWealth Withdrawal
+2025 Sep 13 17:12:05 13 Sep 2025 +1,012.00 1,012.00 E-Channel 250913010200093308609801
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 17:12:07,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+202.40,202.40,E-Channel,250913010200093257819038,,,
+,,2025 Sep 13 17:12:07 13 Sep 2025 Spend & Save Deposit -202.40 0.00 E-Channel 250913140300093359424441,,,,,,,,,
+,,2025 Sep 13 17:23:19,13 Sep 2025,"Transfer to XPRESSPAYMENT
+/Xpress Payments","-1,012.00",0.00,E-Channel,"10000425091317232314100666
+5795",9PSB | 5533665313,,
+,,"OWealth Withdrawal
+2025 Sep 13 17:23:23 13 Sep 2025 +1,012.00 1,012.00 E-Channel 250913010200093607913286
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 17:23:26,13 Sep 2025,Spend & Save Deposit,-202.40,0.00,E-Channel,250913140300093557168515,,,
+,,"OWealth Withdrawal
+2025 Sep 13 17:23:27 13 Sep 2025 +202.40 202.40 E-Channel 250913010200093455498461
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 19:09:37,13 Sep 2025,Mobile Data,-750.00,0.00,E-Channel,250913110100096428898666,,,
+,,"OWealth Withdrawal
+2025 Sep 13 19:09:42 13 Sep 2025 +750.00 750.00 E-Channel 250913010200096378505478
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 19:09:52,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+150.00,150.00,E-Channel,250913010200096277747954,,,
+,,2025 Sep 13 19:09:52 13 Sep 2025 Spend & Save Deposit -150.00 0.00 E-Channel 250913140300096277726444,,,,,,,,,
+,,2025 Sep 13 19:39:45,13 Sep 2025,Airtime,-100.00,0.00,E-Channel,250913100100097169020546,,,
+,,"OWealth Withdrawal
+2025 Sep 13 19:39:50 13 Sep 2025 +100.00 100.00 E-Channel 250913010200097321462818
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 19:39:53,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+20.00,20.00,E-Channel,250913010200097271188361,,,
+,,2025 Sep 13 19:39:53 13 Sep 2025 Spend & Save Deposit -20.00 0.00 E-Channel 250913140300097321656325,,,,,,,,,
+,,2025 Sep 14 14:26:18,14 Sep 2025,"Transfer to AZEEMAH STORE -
+AZEEMAH STORE1","-5,100.00",0.00,E-Channel,"APT00003250914142622141056
+692592",MONIE POINT | 5456392180,,
+,,"OWealth Withdrawal
+2025 Sep 14 14:26:22 14 Sep 2025 +5,100.00 5,100.00 E-Channel 250914010200110651691335
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 14 14:26:23,14 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,020.00","1,020.00",E-Channel,250914010200110851383514,,,
+,,"2025 Sep 14 14:26:23 14 Sep 2025 Spend & Save Deposit -1,020.00 0.00 E-Channel 250914140300110901580476",,,,,,,,,
+,,2025 Sep 14 14:52:13,14 Sep 2025,"Transfer to ABDURRAHMAN
+OLAMILEKAN ABDULHAMEED","-20,000.00",0.00,E-Channel,250914180100111446000182,OPay | 9035729150,,
+,,"OWealth Withdrawal
+2025 Sep 14 14:52:19 14 Sep 2025 +20,000.00 20,000.00 E-Channel 250914010200111297834636
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 16 16:36:11,16 Sep 2025,"Transfer from MARYAM
+OLAJUMONKE TIJANI","+5,000.00","5,000.00",E-Channel,250916010100156771929338,OPay | 8166523449,,
+,,"2025 Sep 16 16:37:15 16 Sep 2025 Auto-save to OWealth Balance -5,000.00 0.00 E-Channel 250916140300156725097897",,,,,,,,,
+,,2025 Sep 16 16:45:48,16 Sep 2025,"Transfer to MEGMAM SERVICES -
+Mamtess Mall Ops CLCTN","-4,000.00",0.00,E-Channel,"10000425091616455414119732
+8527",MONIE POINT | 8223304098,,
+,,"OWealth Withdrawal
+2025 Sep 16 16:45:53 16 Sep 2025 +4,000.00 4,000.00 E-Channel 250916010200156915538123
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 16 16:45:55,16 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+800.00,800.00,E-Channel,250916010200156966663316,,,
+,,2025 Sep 16 16:45:55 16 Sep 2025 Spend & Save Deposit -800.00 0.00 E-Channel 250916140300156966647429,,,,,,,,,
+,,2025 Sep 16 16:53:32,16 Sep 2025,"Transfer from APEKE EUNICE
+OLOJEDE","+20,000.00","20,000.00",E-Channel,250916010100157158373624,OPay | 7038404636,,
+,,"2025 Sep 16 16:53:39 16 Sep 2025 Electronic Money Transfer Levy -50.00 19,950.00 E-Channel 250916550100157253289261",,,,,,,,,
+,,2025 Sep 16 16:54:39,16 Sep 2025,Auto-save to OWealth Balance,"-19,950.00",0.00,E-Channel,250916140300157257248528,,,
+,,"Transfer to MARYAM
+2025 Sep 16 16:55:22 16 Sep 2025 -20,000.00 0.00 E-Channel 250916010100157208970433 OPay | 8166523449
+OLAJUMONKE TIJANI",,,,,,,,,
+,,2025 Sep 16 16:55:27,16 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+20,000.00","20,000.00",E-Channel,250916010200157165772800,,,
+,,"Transfer from OLOYEDE 0904052509162250293052021
+2025 Sep 16 21:50:29 16 Sep 2025 +24,985.00 24,985.00 E-Channel MONIE POINT | 8218611228
+ISMOOBIS GLOBAL VENTURE 64126",,,,,,,,,
+,,2025 Sep 16 21:50:31,16 Sep 2025,Electronic Money Transfer Levy,-50.00,"24,935.00",E-Channel,250916550100164128532226,,,
+,,"2025 Sep 16 21:51:31 16 Sep 2025 Auto-save to OWealth Balance -24,935.00 0.00 E-Channel 250916140300164131156888",,,,,,,,,
+,,2025 Sep 17 06:52:07,17 Sep 2025,"Transfer to APEKE EUNICE
+OLOJEDE","-15,000.00",0.00,E-Channel,250917010100166451286042,OPay | 7038404636,,
+,,"OWealth Withdrawal
+2025 Sep 17 06:52:13 17 Sep 2025 +15,000.00 15,000.00 E-Channel 250917010200166599346092
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 17 06:52:14,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+3,000.00","3,000.00",E-Channel,250917010200166697033855,,,
+,,"2025 Sep 17 06:52:14 17 Sep 2025 Spend & Save Deposit -3,000.00 0.00 E-Channel 250917140300166499728384",,,,,,,,,
+,,2025 Sep 17 17:03:36,17 Sep 2025,"Transfer to Abu Haneefah
+Telecoms Enterprise - Abu
+Ameerah","-5,100.00",0.00,E-Channel,"10000425091717034014126503
+5481",MONIE POINT | 8113843551,,
+,,,,,,,,,,,
+,,"2025 Sep 17 17:03:40 17 Sep 2025 OWealth Withdrawal +5,100.00 5,100.00 E-Channel 250917010200179841691412
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 17 17:03:41,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,020.00","1,020.00",E-Channel,250917010200179791416461,,,
+,,"2025 Sep 17 17:03:41 17 Sep 2025 Spend & Save Deposit -1,020.00 0.00 E-Channel 250917140300179642900784",,,,,,,,,
+,,2025 Sep 17 20:18:45,17 Sep 2025,Transfer to LAWAL RAMAT,-500.00,0.00,E-Channel,"10000425091720185014128253
+2225","Guaranty Trust Bank |
+0506565419",,
+,,"OWealth Withdrawal
+2025 Sep 17 20:18:49 17 Sep 2025 +500.00 500.00 E-Channel 250917010200184832334267
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 17 20:18:50,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+100.00,100.00,E-Channel,250917010200184784940658,,,
+,,2025 Sep 17 20:18:50 17 Sep 2025 Spend & Save Deposit -100.00 0.00 E-Channel 250917140300184784920584,,,,,,,,,
+,,2025 Sep 19 16:03:43,19 Sep 2025,Airtime,"-3,000.00",0.00,E-Channel,250919100100223618944460,,,
+,,"OWealth Withdrawal
+2025 Sep 19 16:03:47 19 Sep 2025 +3,000.00 3,000.00 E-Channel 250919010200223568227547
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 21 09:03:37,21 Sep 2025,"Transfer from BLUE RIDGE
+MICROFINANCE BANK LTD","+20,000.00","20,000.00",E-Channel,250921010200259600159826,OPay | 9552489982,,
+,,"2025 Sep 21 09:03:38 21 Sep 2025 Electronic Money Transfer Levy -50.00 19,950.00 E-Channel 250921550100259498504692",,,,,,,,,
+,,2025 Sep 21 09:04:59,21 Sep 2025,Third-Party Merchant Order,"-16,700.00","3,250.00",E-Channel,250921140300259654902368,,,
+,,"2025 Sep 21 21:02:07 21 Sep 2025 Auto-save to OWealth Balance -3,250.00 0.00 E-Channel 250921140300274431890964",,,,,,,,,
+,,2025 Sep 23 17:46:23,23 Sep 2025,"Transfer to MARYAM
+OLAJUMONKE TIJANI","-5,000.00",0.00,E-Channel,250923010100313535386794,OPay | 8166523449,,
+,,"OWealth Withdrawal
+2025 Sep 23 17:46:27 23 Sep 2025 +5,000.00 5,000.00 E-Channel 250923010200313535729171
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 23 17:46:28,23 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,000.00","1,000.00",E-Channel,250923010200313634377424,,,
+,,"2025 Sep 23 17:46:28 23 Sep 2025 Spend & Save Deposit -1,000.00 0.00 E-Channel 250923140300313685061854",,,,,,,,,
+,,2025 Sep 24 10:01:03,24 Sep 2025,Transfer to SQUAD CHECKOUT,-300.00,0.00,E-Channel,"10000425092410010814169464
+3998","Guaranty Trust Bank |
+0826604272",,
+,,"OWealth Withdrawal
+2025 Sep 24 10:01:08 24 Sep 2025 +300.00 300.00 E-Channel 250924010200325496603447
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 10:01:09,24 Sep 2025,Spend & Save Deposit,-60.00,0.00,E-Channel,250924140300325745017913,,,
+,,"OWealth Withdrawal
+2025 Sep 24 10:01:10 24 Sep 2025 +60.00 60.00 E-Channel 250924010200325693969148
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 10:45:55,24 Sep 2025,Transfer to USWAT JAMIU,"-1,000.00",0.00,E-Channel,250924010100326668451577,OPay | 8156230683,,
+,,"OWealth Withdrawal
+2025 Sep 24 10:46:00 24 Sep 2025 +1,000.00 1,000.00 E-Channel 250924010200326420308817
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 10:46:01,24 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250924010200326668772279,,,
+,,2025 Sep 24 10:46:01 24 Sep 2025 Spend & Save Deposit -200.00 0.00 E-Channel 250924140300326617691513,,,,,,,,,
+,,,,Transfer to OLUWAPELUMI,,,,,,,
+,,2025 Sep 24 16:11:58,24 Sep 2025,TEMITOPE AFOLAYAN,"-1,600.00",0.00,E-Channel,250924010100333195767668,OPay | 8061786911,,
+,,"OWealth Withdrawal
+2025 Sep 24 16:12:02 24 Sep 2025 +1,600.00 1,600.00 E-Channel 250924010200333444644859
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 16:12:03,24 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+320.00,320.00,E-Channel,250924010200333294130084,,,
+,,2025 Sep 24 16:12:03 24 Sep 2025 Spend & Save Deposit -320.00 0.00 E-Channel 250924140300333294111510,,,,,,,,,
+,,2025 Sep 27 12:50:02,27 Sep 2025,"Transfer from MAJEEDAH
+ADEOLA TIAMIYU","+1,000.00","1,000.00",E-Channel,250927010100399012998825,OPay | 9074101393,,
+,,"2025 Sep 27 12:51:06 27 Sep 2025 Auto-save to OWealth Balance -1,000.00 0.00 E-Channel 250927140300399064569065",,,,,,,,,
+,,2025 Sep 27 15:04:38,27 Sep 2025,"Transfer from RASAQ AYINDE
+OLOYEDE","+100,000.00","100,000.00",E-Channel,"000014250927160438295054
+008331",Access Bank | 0088316717,,
+,,"2025 Sep 27 15:04:40 27 Sep 2025 Electronic Money Transfer Levy -50.00 99,950.00 E-Channel 250927550100402218057443",,,,,,,,,
+,,2025 Sep 27 15:05:40,27 Sep 2025,Auto-save to OWealth Balance,"-99,950.00",0.00,E-Channel,250927140300402123056882,,,
+,,"Transfer to MARYAM
+2025 Sep 27 19:15:55 27 Sep 2025 -5,000.00 0.00 E-Channel 250927010100408659391363 OPay | 8166523449
+OLAJUMONKE TIJANI",,,,,,,,,
+,,2025 Sep 27 19:15:59,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+5,000.00","5,000.00",E-Channel,250927010200408659735566,,,
+,,"OWealth Withdrawal
+2025 Sep 27 19:16:07 27 Sep 2025 +1,000.00 1,000.00 E-Channel 250927010200408514253180
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 27 19:16:07,27 Sep 2025,Spend & Save Deposit,"-1,000.00",0.00,E-Channel,250927140300408612449320,,,
+,,"Transfer to MARYAM
+2025 Sep 27 19:16:29 27 Sep 2025 -45,000.00 0.00 E-Channel 250927010100408515805642 OPay | 8166523449
+OLAJUMONKE TIJANI",,,,,,,,,
+,,2025 Sep 27 19:16:33,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+45,000.00","45,000.00",E-Channel,250927010200408563730722,,,
+,,"OWealth Withdrawal
+2025 Sep 27 19:16:42 27 Sep 2025 +9,000.00 9,000.00 E-Channel 250927010200408615043665
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 27 19:16:42,27 Sep 2025,Spend & Save Deposit,"-9,000.00",0.00,E-Channel,250927140300408615025183,,,
+,,"10000425092719182214193977 Guaranty Trust Bank |
+2025 Sep 27 19:18:18 27 Sep 2025 Transfer to TIJANI FATHIA IYABO -50,000.00 0.00 E-Channel
+2287 0774390056",,,,,,,,,
+,,2025 Sep 27 19:18:22,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+50,000.00","50,000.00",E-Channel,250927010200408524135914,,,
+,,"2025 Sep 28 08:19:54 28 Sep 2025 Airtime -1,000.00 0.00 E-Channel 250928100100416017952088",,,,,,,,,
+,,2025 Sep 28 08:20:00,28 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","+1,000.00","1,000.00",E-Channel,250928010200415909464878,,,
+,,2025 Sep 28 08:20:02 28 Sep 2025 Spend & Save Deposit -200.00 0.00 E-Channel 250928140300416018347297,,,,,,,,,
+,,2025 Sep 28 08:20:03,28 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",+200.00,200.00,E-Channel,250928010200416006766011,,,
+,,"Transfer from TIJANI FATHIA 0000132509291005180004445 Guaranty Trust Bank |
+2025 Sep 29 09:05:18 29 Sep 2025 +5,000.00 5,000.00 E-Channel
+IYABO 64146 0774390056",,,,,,,,,
+,,2025 Sep 29 09:06:20,29 Sep 2025,Auto-save to OWealth Balance,"-5,000.00",0.00,E-Channel,250929140300437277028510,,,
+,,Transfer to BASHIRU,,,,,,,,,
+Trans. Time,Value Date,Description,Debit/Credit(₦),Balance(₦),Channel,Transaction Reference,Counterparty,,,,
+"2025 Aug 01 00:54:08 01 Aug 2025 OWealth Interest Earned +17.22 49,994.32 E-Channel 25080199ioDu5nLgks913Pp5afFqB",,,,,,,,,,,
+2025 Aug 01 11:11:51,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,"49,494.32",E-Channel,250801010200169201697826,,,,,
+"OWealth Withdrawal
+2025 Aug 01 14:22:41 01 Aug 2025 -100.00 49,394.32 E-Channel 250801010200173045043359
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 01 14:22:44,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-20.00,"49,374.32",E-Channel,250801010200173191167827,,,,,
+"OWealth Withdrawal
+2025 Aug 01 15:52:16 01 Aug 2025 -2,000.00 47,374.32 E-Channel 250801010200175161440189
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 01 15:52:17,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-400.00,"46,974.32",E-Channel,250801010200175161499744,,,,,
+"OWealth Withdrawal
+2025 Aug 01 19:55:44 01 Aug 2025 -800.00 46,174.32 E-Channel 250801010200181264704955
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 01 19:55:48,01 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-160.00,"46,014.32",E-Channel,250801010200181163582832,,,,,
+"Auto-save to OWealth
+2025 Aug 01 21:52:04 01 Aug 2025 +9,950.00 55,964.32 E-Channel 250801140200183570915818
+Balance",,,,,,,,,,,
+2025 Aug 02 00:12:43,02 Aug 2025,OWealth Interest Earned,+15.85,"55,980.17",E-Channel,250802994bP2T31NIOIISGnJ7urS14,,,,,
+"OWealth Withdrawal
+2025 Aug 02 10:41:43 02 Aug 2025 -1,300.00 54,680.17 E-Channel 250802010200190986207490
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 02 10:41:45,02 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-260.00,"54,420.17",E-Channel,250802010200190862126277,,,,,
+"OWealth Withdrawal
+2025 Aug 02 18:53:08 02 Aug 2025 -2,100.00 52,320.17 E-Channel 250802010200201754051789
+(Transaction Payment)",,,,,,,,,,,
+2025 Aug 02 18:53:18,02 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-420.00,"51,900.17",E-Channel,250802010200201655387956,,,,,
+,,"2508039910R5MjpPnLwaGTlGsC6
+2025 Aug 03 00:56:13 03 Aug 2025 OWealth Interest Earned +17.88 51,918.05 E-Channel
+ncC",,,,,,,,,
+,,2025 Aug 03 13:26:10,03 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,100.00","48,818.05",E-Channel,250803010200215702247815,,,
+,,"OWealth Withdrawal
+2025 Aug 03 13:26:11 03 Aug 2025 -620.00 48,198.05 E-Channel 250803010200215753432665
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 16:50:22,03 Aug 2025,"Auto-save to OWealth
+Balance","+9,950.00","58,148.05",E-Channel,250803140200219413021270,,,
+,,"OWealth Withdrawal
+2025 Aug 03 16:55:57 03 Aug 2025 -10,000.00 48,148.05 E-Channel 250803010200219637508060
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 03 16:55:59,03 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,000.00","46,148.05",E-Channel,250803010200219637611797,,,
+,,"250804993vRQKblM1FXAZDTnLBD
+2025 Aug 04 00:13:25 04 Aug 2025 OWealth Interest Earned +15.90 46,163.95 E-Channel
+Axw",,,,,,,,,
+,,2025 Aug 04 10:05:05,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,000.00","43,163.95",E-Channel,250804010200231246214096,,,
+,,"OWealth Withdrawal
+2025 Aug 04 10:05:07 04 Aug 2025 -600.00 42,563.95 E-Channel 250804010200231144646294
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 04 13:08:40,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-50.00,"42,513.95",E-Channel,250804010200234778062032,,,
+,,"OWealth Withdrawal
+2025 Aug 04 13:08:42 04 Aug 2025 -10.00 42,503.95 E-Channel 250804010200234778188654
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 04 15:56:02,04 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,"42,003.95",E-Channel,250804010200238001463135,,,
+,,"OWealth Withdrawal
+2025 Aug 04 15:56:06 04 Aug 2025 -100.00 41,903.95 E-Channel 250804010200237950947677
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 05 00:52:40,05 Aug 2025,OWealth Interest Earned,+14.43,"41,918.38",E-Channel,25080599458QRipuTjoJ3xjtUACALX,,,
+,,"OWealth Withdrawal
+2025 Aug 05 17:49:45 05 Aug 2025 -1,000.00 40,918.38 E-Channel 250805010200261760971032
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 05 17:49:47,05 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-200.00,"40,718.38",E-Channel,250805010200261608698317,,,
+,,"OWealth Deposit(from
+2025 Aug 05 18:53:28 05 Aug 2025 +2,200.00 42,918.38 E-Channel 250805996STIH6rsOZYl3iLYdFWLZ3
+Spend & Save)",,,,,,,,,
+,,2025 Aug 05 18:54:39,05 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,000.00","40,918.38",E-Channel,250805010200263163219008,,,
+,,"OWealth Withdrawal
+2025 Aug 05 18:54:49 05 Aug 2025 -400.00 40,518.38 E-Channel 250805010200263370259604
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 06 00:15:38,06 Aug 2025,OWealth Interest Earned,+13.95,"40,532.33",E-Channel,"250806995dk1yDOK809QlPRkjJ0a
+p1",,,
+,,"OWealth Withdrawal
+2025 Aug 06 15:41:38 06 Aug 2025 -5,100.00 35,432.33 E-Channel 250806010200280017513926
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 00:51:45,07 Aug 2025,OWealth Interest Earned,+12.20,"35,444.53",E-Channel,"2508079949h2uAsT2Vbl4yXRwBlY
+bp",,,
+,,,,,,,,,,,
+,,"OWealth Withdrawal
+2025 Aug 07 10:40:21 07 Aug 2025 -5,100.00 30,344.53 E-Channel 250807010200294919981619
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 10:40:22,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,020.00","29,324.53",E-Channel,250807010200294666495532,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:39:02 07 Aug 2025 -1,300.00 28,024.53 E-Channel 250807010200295994871070
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:39:03,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-260.00,"27,764.53",E-Channel,250807010200295893119603,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:44:33 07 Aug 2025 -2,000.00 25,764.53 E-Channel 250807010200296320263302
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:44:34,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-400.00,"25,364.53",E-Channel,250807010200296320309128,,,
+,,"OWealth Withdrawal
+2025 Aug 07 11:48:12 07 Aug 2025 -2,500.00 22,864.53 E-Channel 250807010200296281753785
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 11:48:13,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,"22,364.53",E-Channel,250807010200296179996432,,,
+,,"OWealth Withdrawal
+2025 Aug 07 12:08:25 07 Aug 2025 -50.00 22,314.53 E-Channel 250807010200296554485537
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 12:08:27,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-10.00,"22,304.53",E-Channel,250807010200296705705171,,,
+,,"OWealth Withdrawal
+2025 Aug 07 12:13:33 07 Aug 2025 -17,600.00 4,704.53 E-Channel 250807010200296928432892
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 07 12:13:35,07 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,520.00","1,184.53",E-Channel,250807010200296928534499,,,
+,,"2025 Aug 08 00:17:06 08 Aug 2025 OWealth Interest Earned +0.40 1,184.93 E-Channel 25080899EjxwaSa8tD5hfSsMEnU1P",,,,,,,,,
+,,2025 Aug 08 08:54:28,08 Aug 2025,"Auto-save to OWealth
+Balance","+5,000.00","6,184.93",E-Channel,250808140200313507715286,,,
+,,"OWealth Withdrawal
+2025 Aug 08 11:10:52 08 Aug 2025 -500.00 5,684.93 E-Channel 250808010200316364693038
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 08 12:28:27,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,100.00",584.93,E-Channel,250808010200318029933988,,,
+,,"OWealth Deposit(from 250808993fyN7Uk7SWgbNGeo7O
+2025 Aug 08 13:23:47 08 Aug 2025 +5,000.00 5,584.93 E-Channel
+Spend & Save) O8u0",,,,,,,,,
+,,2025 Aug 08 13:24:38,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,100.00",484.93,E-Channel,250808010200318895161487,,,
+,,"OWealth Deposit(from 250808996oa7cXcRFgJYulomB0y
+2025 Aug 08 14:29:16 08 Aug 2025 +6,700.00 7,184.93 E-Channel
+Spend & Save) rQn",,,,,,,,,
+,,2025 Aug 08 14:31:53,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,100.00","4,084.93",E-Channel,250808010200320406364877,,,
+,,"OWealth Withdrawal
+2025 Aug 08 14:31:55 08 Aug 2025 -620.00 3,464.93 E-Channel 250808010200320436384784
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 08 15:13:50,08 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-50.00,"3,414.93",E-Channel,250808010200321316976481,,,
+,,,,,,,,,,,
+,,"2025 Aug 08 15:13:52 08 Aug 2025 OWealth Withdrawal -10.00 3,404.93 E-Channel 250808010200321090698908
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 09 00:52:49,09 Aug 2025,OWealth Interest Earned,+0.16,"3,405.09",E-Channel,25080999CYPj1UrCIq3KMwG4kIAVL,,,
+,,"OWealth Withdrawal
+2025 Aug 09 09:27:16 09 Aug 2025 -1,500.00 1,905.09 E-Channel 250809010200335352362394
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 09 09:27:16,09 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-300.00,"1,605.09",E-Channel,250809010200335266172638,,,
+,,"250810997Kvv3jgsResziwOjZwGm
+2025 Aug 10 00:17:26 10 Aug 2025 OWealth Interest Earned +0.54 1,605.63 E-Channel
+vx",,,,,,,,,
+,,2025 Aug 11 00:50:52,11 Aug 2025,OWealth Interest Earned,+0.54,"1,606.17",E-Channel,25081199Ok0mjZOm9iiss9q3UeqJl,,,
+,,"OWealth Withdrawal
+2025 Aug 11 07:52:43 11 Aug 2025 -50.00 1,556.17 E-Channel 250811010200373063903169
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 11 07:52:45,11 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-10.00,"1,546.17",E-Channel,250811010200373264242423,,,
+,,"OWealth Deposit(from
+2025 Aug 11 11:34:22 11 Aug 2025 +900.00 2,446.17 E-Channel 2508119918S80v6ZFdMlsLYwbRHnej
+Spend & Save)",,,,,,,,,
+,,2025 Aug 11 11:37:04,11 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,000.00",446.17,E-Channel,250811010200377661870582,,,
+,,"25081299nUndWQYC3mP1TbSGoD
+2025 Aug 12 00:19:18 12 Aug 2025 OWealth Interest Earned +0.15 446.32 E-Channel
+3rY",,,,,,,,,
+,,2025 Aug 12 09:22:59,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-200.00,246.32,E-Channel,250812010200396199610702,,,
+,,"OWealth Withdrawal
+2025 Aug 12 09:26:06 12 Aug 2025 -200.00 246.32 E-Channel 250812010200396212603300
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 12 09:26:33,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-200.00,246.32,E-Channel,250812010200396265141923,,,
+,,"OWealth Withdrawal
+2025 Aug 12 14:40:09 12 Aug 2025 -50.00 396.32 E-Channel 250812010200403483362058
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 12 14:40:12,12 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-10.00,386.32,E-Channel,250812010200403533755052,,,
+,,2025 Aug 13 00:53:29 13 Aug 2025 OWealth Interest Earned +0.09 386.41 E-Channel 25081399tPbxzQL2XRnvEq21VN6W1,,,,,,,,,
+,,2025 Aug 13 11:40:42,13 Aug 2025,"OWealth Deposit(from
+Spend & Save)",+77.00,463.41,E-Channel,"250813994Y3L3ykTMKzFpwjpZeAC
+6t",,,
+,,"OWealth Withdrawal
+2025 Aug 13 11:42:17 13 Aug 2025 -367.00 96.41 E-Channel 250813010200419785050329
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 13 12:49:51,13 Aug 2025,"Auto-save to OWealth
+Balance","+99,950.00","100,046.41",E-Channel,250813140200420980994679,,,
+,,"OWealth Withdrawal
+2025 Aug 13 13:42:18 13 Aug 2025 -70,000.00 30,046.41 E-Channel 250813010200422063457644
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 13 13:42:20,13 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-14,000.00","16,046.41",E-Channel,250813010200422063538860,,,
+,,"250814996I7ydSrbCZ4mXBPvM6E
+2025 Aug 14 00:20:06 14 Aug 2025 OWealth Interest Earned +0.09 16,046.50 E-Channel
+Ncc",,,,,,,,,
+,,2025 Aug 15 00:51:38,15 Aug 2025,OWealth Interest Earned,+5.52,"16,052.02",E-Channel,"25081599qOX62P7sxAm22awjnm
+T1f",,,
+,,"OWealth Withdrawal
+2025 Aug 15 11:10:42 15 Aug 2025 -500.00 15,552.02 E-Channel 250815010200460876387139
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 13:34:53,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-50.00,"15,502.02",E-Channel,250815010200463606066970,,,
+,,"OWealth Withdrawal
+2025 Aug 15 13:34:56 15 Aug 2025 -10.00 15,492.02 E-Channel 250815010200463655927962
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 14:32:41,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,100.00","13,392.02",E-Channel,250815010200465021440815,,,
+,,"OWealth Withdrawal
+2025 Aug 15 14:32:41 15 Aug 2025 -420.00 12,972.02 E-Channel 250815010200465071693059
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 14:33:10,15 Aug 2025,"OWealth Deposit(from
+Spend & Save)","+14,350.00","27,322.02",E-Channel,"250815993z61lEQxbTKQ925NKMg
+wL4",,,
+,,"OWealth Deposit(from 250815991NLXyWSxTBUoZooF6mC
+2025 Aug 15 14:35:30 15 Aug 2025 +80.00 27,402.02 E-Channel
+Spend & Save) jbz",,,,,,,,,
+,,2025 Aug 15 15:29:07,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-20,000.00","7,402.02",E-Channel,250815010200466048703555,,,
+,,"OWealth Withdrawal
+2025 Aug 15 15:29:09 15 Aug 2025 -4,000.00 3,402.02 E-Channel 250815010200466188979736
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 15:30:54,15 Aug 2025,"Auto-save to OWealth
+Balance","+3,000.00","6,402.02",E-Channel,250815140200466246131557,,,
+,,"OWealth Withdrawal
+2025 Aug 15 15:32:36 15 Aug 2025 -2,700.00 3,702.02 E-Channel 250815010200466110549787
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 15:32:40,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-540.00,"3,162.02",E-Channel,250815010200466252144005,,,
+,,"Auto-save to OWealth
+2025 Aug 15 15:50:10 15 Aug 2025 +3,000.00 6,162.02 E-Channel 250815140200466620670863
+Balance",,,,,,,,,
+,,2025 Aug 15 15:55:33,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,518.00","4,644.02",E-Channel,250815010200466655153475,,,
+,,"OWealth Withdrawal
+2025 Aug 15 19:44:03 15 Aug 2025 -3,000.00 1,644.02 E-Channel 250815010200472107310260
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 15 19:44:06,15 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-600.00,"1,044.02",E-Channel,250815010200472312961227,,,
+,,"2025 Aug 16 00:22:31 16 Aug 2025 OWealth Interest Earned +0.35 1,044.37 E-Channel 250816995cVqHA517iiYBUQedrNrHz",,,,,,,,,
+,,2025 Aug 16 11:31:16,16 Aug 2025,"OWealth Deposit(from
+Spend & Save)","+1,600.00","2,644.37",E-Channel,250816996R1Yxy0zamg9Cb2Qbj7Ilx,,,
+,,"OWealth Withdrawal
+2025 Aug 16 11:31:48 16 Aug 2025 -2,600.00 44.37 E-Channel 250816010200482840799329
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 12:59:53,16 Aug 2025,"Auto-save to OWealth
+Balance","+9,950.00","9,994.37",E-Channel,250816140200484425725885,,,
+,,"OWealth Withdrawal
+2025 Aug 16 13:17:08 16 Aug 2025 -1,518.00 8,476.37 E-Channel 250816010200484989150240
+(Transaction Payment)",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Aug 16 13:41:01,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,700.00","4,776.37",E-Channel,250816010200485387456249,,,
+,,"OWealth Withdrawal
+2025 Aug 16 13:41:02 16 Aug 2025 -740.00 4,036.37 E-Channel 250816010200485534728656
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 14:00:21,16 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,700.00","1,336.37",E-Channel,250816010200485808273974,,,
+,,"OWealth Withdrawal
+2025 Aug 16 14:00:24 16 Aug 2025 -540.00 796.37 E-Channel 250816010200485757259131
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 14:10:27,16 Aug 2025,"OWealth Deposit(from
+Spend & Save)","+3,000.00","3,796.37",E-Channel,"250816995btXWoOt5YVOOQLS1Gc
+Lem",,,
+,,"OWealth Withdrawal
+2025 Aug 16 14:12:39 16 Aug 2025 -3,700.00 96.37 E-Channel 250816010200486156580887
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 16 14:50:16,16 Aug 2025,"OWealth Deposit(from
+SafeBox)","+1,500.00","1,596.37",E-Channel,"250816993c3M17o8sDWNPKp6ghY
+09K",,,
+,,"250817991CLMytJ7QqmuJe53RDA
+2025 Aug 17 00:54:05 17 Aug 2025 OWealth Interest Earned +0.09 1,596.46 E-Channel
+9SH",,,,,,,,,
+,,2025 Aug 17 15:52:28,17 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-620.00,976.46,E-Channel,250817010200507992967903,,,
+,,"OWealth Withdrawal
+2025 Aug 17 15:52:29 17 Aug 2025 -124.00 852.46 E-Channel 250817010200508091541681
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 17 16:05:58,17 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,352.46,E-Channel,250817010200508340774761,,,
+,,"OWealth Withdrawal
+2025 Aug 17 16:06:00 17 Aug 2025 -100.00 252.46 E-Channel 250817010200508340850659
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 18 00:24:48,18 Aug 2025,OWealth Interest Earned,+0.09,252.55,E-Channel,"250818995VTW0ykH3UYzvBdA4tR
+DRy",,,
+,,"OWealth Deposit(from 250818991HM970ZPMBFtU52Y3Na
+2025 Aug 18 10:09:02 18 Aug 2025 +2,000.00 2,252.55 E-Channel
+Spend & Save) BEy",,,,,,,,,
+,,2025 Aug 18 10:09:38,18 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,200.00",52.55,E-Channel,250818010200520839974968,,,
+,,"Auto-save to OWealth
+2025 Aug 18 10:58:38 18 Aug 2025 +900.00 952.55 E-Channel 250818140200522129602708
+Balance",,,,,,,,,
+,,2025 Aug 18 10:59:18,18 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-700.00,252.55,E-Channel,250818010200522033789965,,,
+,,"OWealth Withdrawal
+2025 Aug 18 10:59:18 18 Aug 2025 -140.00 112.55 E-Channel 250818010200522131895341
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 18 11:16:23,18 Aug 2025,"Auto-save to OWealth
+Balance","+11,950.00","12,062.55",E-Channel,250818140200522447798300,,,
+,,"OWealth Withdrawal
+2025 Aug 18 11:17:43 18 Aug 2025 -11,900.00 162.55 E-Channel 250818010200522603380628
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 19 00:56:06,19 Aug 2025,OWealth Interest Earned,+0.09,162.64,E-Channel,"250819994NwScyV1vdr9O0rXg6iW
+bE",,,
+,,"250820994m7UZuWH2NzGpBtTlOi
+2025 Aug 20 00:27:06 20 Aug 2025 OWealth Interest Earned +0.09 162.73 E-Channel
+CJG",,,,,,,,,
+,,2025 Aug 20 17:17:44,20 Aug 2025,"Auto-save to OWealth
+Balance","+7,000.00","7,162.73",E-Channel,250820140200571404121231,,,
+,,"OWealth Withdrawal
+2025 Aug 20 17:18:06 20 Aug 2025 -5,000.00 2,162.73 E-Channel 250820010200571557686861
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 20 17:18:06,20 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,000.00","1,162.73",E-Channel,250820010200571557732345,,,
+,,"Auto-save to OWealth
+2025 Aug 20 18:32:48 20 Aug 2025 +11,850.00 13,012.73 E-Channel 250820140200573433777105
+Balance",,,,,,,,,
+,,2025 Aug 21 00:56:39,21 Aug 2025,OWealth Interest Earned,+0.09,"13,012.82",E-Channel,"250821996CwMhkR3Z7ZAV8ps4g
+aeae",,,
+,,"OWealth Withdrawal
+2025 Aug 21 16:09:26 21 Aug 2025 -600.00 12,412.82 E-Channel 250821010200590735856416
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 21 16:09:27,21 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-120.00,"12,292.82",E-Channel,250821010200590786815147,,,
+,,"250822993aElc75aGLxmJHzebsg
+2025 Aug 22 00:27:01 22 Aug 2025 OWealth Interest Earned +4.23 12,297.05 E-Channel
+H9d",,,,,,,,,
+,,2025 Aug 22 04:45:19,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,000.00","7,297.05",E-Channel,250822010200599647576902,,,
+,,"OWealth Withdrawal
+2025 Aug 22 04:45:19 22 Aug 2025 -1,000.00 6,297.05 E-Channel 250822010200599645413952
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 04:47:34,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,000.00","3,297.05",E-Channel,250822010200599663929811,,,
+,,"OWealth Withdrawal
+2025 Aug 22 04:47:35 22 Aug 2025 -600.00 2,697.05 E-Channel 250822010200599646324291
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 08:16:42,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-2,100.00",597.05,E-Channel,250822010200601998111065,,,
+,,"OWealth Withdrawal
+2025 Aug 22 08:16:43 22 Aug 2025 -420.00 177.05 E-Channel 250822010200602099240365
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 10:27:54,22 Aug 2025,"Auto-save to OWealth
+Balance","+5,000.00","5,177.05",E-Channel,250822140200604815397000,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:14:45 22 Aug 2025 -1,600.00 3,577.05 E-Channel 250822010200611991195296
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:14:45,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-320.00,"3,257.05",E-Channel,250822010200611991250079,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:15:57 22 Aug 2025 -200.00 3,057.05 E-Channel 250822010200612095521912
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:15:58,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-40.00,"3,017.05",E-Channel,250822010200611894647992,,,
+,,"OWealth Withdrawal
+2025 Aug 22 16:17:41 22 Aug 2025 -200.00 2,817.05 E-Channel 250822010200612106657534
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 22 16:17:42,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-40.00,"2,777.05",E-Channel,250822010200612207544137,,,
+,,OWealth Withdrawal,,,,,,,,,
+,,"2025 Aug 22 16:56:29 22 Aug 2025 (Transaction Payment) -2,000.00 777.05 E-Channel 250822010200613012549984",,,,,,,,,
+,,2025 Aug 22 16:56:30,22 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-400.00,377.05,E-Channel,250822010200612761501701,,,
+,,"2508239935a3jFsQW6fndzFUwla
+2025 Aug 23 01:00:15 23 Aug 2025 OWealth Interest Earned +0.09 377.14 E-Channel
+mcg",,,,,,,,,
+,,2025 Aug 23 07:14:46,23 Aug 2025,"OWealth Deposit(from
+Spend & Save)","+2,000.00","2,377.14",E-Channel,250823993ajlRqqdUTxhlUiwtQOtPr,,,
+,,"OWealth Withdrawal
+2025 Aug 23 07:15:16 23 Aug 2025 -2,000.00 377.14 E-Channel 250823010200622375723339
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 23 07:19:22,23 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-40.00,337.14,E-Channel,250823010200622843842739,,,
+,,"OWealth Withdrawal
+2025 Aug 23 07:19:56 23 Aug 2025 -300.00 37.14 E-Channel 250823010200622644982581
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 24 00:29:00,24 Aug 2025,OWealth Interest Earned,+0.09,37.23,E-Channel,250824992zD9SmcQfrjL1vYsj2WXYk,,,
+,,"Auto-save to OWealth
+2025 Aug 24 21:01:56 24 Aug 2025 +144.00 181.23 E-Channel 250824140200659331896736
+Balance",,,,,,,,,
+,,2025 Aug 25 01:03:59,25 Aug 2025,OWealth Interest Earned,+0.09,181.32,E-Channel,"250825994aihUtUwyMMNjggXSjv
+Kgz",,,
+,,"Auto-save to OWealth
+2025 Aug 25 16:21:53 25 Aug 2025 +11,780.00 11,961.32 E-Channel 250825140200673813716763
+Balance",,,,,,,,,
+,,2025 Aug 25 18:31:00,25 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-750.00,"11,211.32",E-Channel,250825010200676775041091,,,
+,,"OWealth Withdrawal
+2025 Aug 25 18:31:02 25 Aug 2025 -150.00 11,061.32 E-Channel 250825010200676825474911
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 26 00:28:59,26 Aug 2025,OWealth Interest Earned,+0.09,"11,061.41",E-Channel,"2508269963fxAdEWcLG9fvcmFfU
+p9F",,,
+,,"OWealth Withdrawal
+2025 Aug 26 09:27:57 26 Aug 2025 -5,100.00 5,961.41 E-Channel 250826010200686725753960
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 26 09:27:58,26 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,020.00","4,941.41",E-Channel,250826010200686725803007,,,
+,,"250827991ckrLv2SzCeorbwMYNVk
+2025 Aug 27 01:01:06 27 Aug 2025 OWealth Interest Earned +1.70 4,943.11 E-Channel
+Zx",,,,,,,,,
+,,2025 Aug 27 16:49:13,27 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-300.00,"4,643.11",E-Channel,250827010200716826810976,,,
+,,"OWealth Withdrawal
+2025 Aug 27 16:49:15 27 Aug 2025 -60.00 4,583.11 E-Channel 250827010200716878011433
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 27 17:52:05,27 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,000.00","3,583.11",E-Channel,250827010200718300379901,,,
+,,"OWealth Withdrawal
+2025 Aug 27 17:52:06 27 Aug 2025 -200.00 3,383.11 E-Channel 250827010200718300457683
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 28 00:31:39,28 Aug 2025,OWealth Interest Earned,+1.16,"3,384.27",E-Channel,"250828996H1m0cFoNN2nE2DuxzQ
+L05",,,
+,,OWealth Withdrawal,,,,,,,,,
+,,"2025 Aug 28 13:09:31 28 Aug 2025 (Transaction Payment) -1,100.00 2,284.27 E-Channel 250828010200733803103158",,,,,,,,,
+,,2025 Aug 28 13:09:32,28 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-220.00,"2,064.27",E-Channel,250828010200733653137264,,,
+,,"250829997GDf1yc2cFjBWuKhKOg
+2025 Aug 29 00:59:08 29 Aug 2025 OWealth Interest Earned +0.71 2,064.98 E-Channel
+c4f",,,,,,,,,
+,,2025 Aug 29 07:57:38,29 Aug 2025,"OWealth Deposit(from
+Spend & Save)",+200.00,"2,264.98",E-Channel,"250829991ORw45YOEzELSnCPvzZ
+Cq6",,,
+,,"OWealth Withdrawal
+2025 Aug 29 07:58:07 29 Aug 2025 -2,100.00 164.98 E-Channel 250829010200749037320332
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 30 00:35:09,30 Aug 2025,OWealth Interest Earned,+0.09,165.07,E-Channel,"250830993kU8zMp9MGlO4hSNr7u
+FaA",,,
+,,"OWealth Deposit(from 2508309949PAjpxTDuAxNA9pXixf
+2025 Aug 30 10:09:58 30 Aug 2025 +800.00 965.07 E-Channel
+Spend & Save) 2N",,,,,,,,,
+,,2025 Aug 30 10:11:59,30 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-750.00,215.07,E-Channel,250830010200774176134016,,,
+,,"OWealth Withdrawal
+2025 Aug 30 10:12:01 30 Aug 2025 -150.00 65.07 E-Channel 250830010200774075399436
+(Transaction Payment)",,,,,,,,,
+,,2025 Aug 31 01:01:47,31 Aug 2025,OWealth Interest Earned,+0.09,65.16,E-Channel,"250831994Jf27aFQVXY1hVF2zvpw
+Uv",,,
+,,"OWealth Deposit(from 250831993GQTgU0nAB3SCQNzrLll
+2025 Aug 31 18:12:20 31 Aug 2025 +500.00 565.16 E-Channel
+Spend & Save) Du",,,,,,,,,
+,,2025 Aug 31 18:50:41,31 Aug 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,65.16,E-Channel,250831010200806206435954,,,
+,,"250901996QtxBhwqH922IdvOrTeC
+2025 Sep 01 00:34:13 01 Sep 2025 OWealth Interest Earned +0.09 65.25 E-Channel
+Re",,,,,,,,,
+,,2025 Sep 01 08:21:21,01 Sep 2025,"OWealth Deposit(from
+Spend & Save)","+2,600.00","2,665.25",E-Channel,25090199vgAuaRZAIrkUfIBusRBjR,,,
+,,"OWealth Withdrawal
+2025 Sep 01 08:21:48 01 Sep 2025 -2,600.00 65.25 E-Channel 250901010200814206461692
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 02 01:01:58,02 Sep 2025,OWealth Interest Earned,+0.09,65.34,E-Channel,250902996IYaf41ak0nAaoQTpfZVf0,,,
+,,"Auto-save to OWealth
+2025 Sep 02 17:39:11 02 Sep 2025 +5,000.00 5,065.34 E-Channel 250902140300848639962139
+Balance",,,,,,,,,
+,,2025 Sep 03 00:36:50,03 Sep 2025,OWealth Interest Earned,+0.09,"5,065.43",E-Channel,250903993SrlBku9riyIYkzCcwukI4,,,
+,,"OWealth Deposit(from
+2025 Sep 03 07:59:20 03 Sep 2025 +81.00 5,146.43 E-Channel 250903991R7OHYoHIKkilLXPVhyeX8
+Spend & Save)",,,,,,,,,
+,,2025 Sep 03 08:02:09,03 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,100.00",46.43,E-Channel,250903010200859287859790,,,
+,,"250904995G0FeTRywbZ7Z6UGVy
+2025 Sep 04 01:04:31 04 Sep 2025 OWealth Interest Earned +0.09 46.52 E-Channel
+yCnn",,,,,,,,,
+,,2025 Sep 05 00:34:37,05 Sep 2025,OWealth Interest Earned,+0.09,46.61,E-Channel,"250905992FcPnSzqxKOL2zMq2uPt
+z4",,,
+,,"250906992yHK93z9FOv04CGy7xZ
+2025 Sep 06 01:00:59 06 Sep 2025 OWealth Interest Earned +0.09 46.70 E-Channel
+oqS",,,,,,,,,
+,,2025 Sep 06 14:08:19,06 Sep 2025,"Auto-save to OWealth
+Balance","+99,950.00","99,996.70",E-Channel,250906140300936062947454,,,
+,,"OWealth Withdrawal
+2025 Sep 06 15:07:23 06 Sep 2025 -50.00 99,946.70 E-Channel 250906010200937198443402
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 06 15:07:25,06 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-10.00,"99,936.70",E-Channel,250906010200937198579466,,,
+,,"OWealth Withdrawal
+2025 Sep 06 15:11:41 06 Sep 2025 -80,000.00 19,936.70 E-Channel 250906010200937162336998
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 06 15:11:42,06 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-16,000.00","3,936.70",E-Channel,250906010200937162418734,,,
+,,"250907994Cqr5JdS8YhOkeV74AI
+2025 Sep 07 00:34:25 07 Sep 2025 OWealth Interest Earned +0.09 3,936.79 E-Channel
+vFr",,,,,,,,,
+,,2025 Sep 07 16:32:34,07 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,"3,436.79",E-Channel,250907010200960045147475,,,
+,,"OWealth Withdrawal
+2025 Sep 07 16:32:36 07 Sep 2025 -100.00 3,336.79 E-Channel 250907010200960045280604
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 08 01:02:28,08 Sep 2025,OWealth Interest Earned,+1.14,"3,337.93",E-Channel,"2509089974475GvztZv7oVxq8zp5
+QI",,,
+,,"250909996fHfAOL6Yc1CxMsaqgcF
+2025 Sep 09 00:37:10 09 Sep 2025 OWealth Interest Earned +1.14 3,339.07 E-Channel
+tW",,,,,,,,,
+,,2025 Sep 09 16:46:51,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,300.00",39.07,E-Channel,250909010200003469439971,,,
+,,"OWealth Deposit(from 250909994ivvkgfDWGmDbwssjXu
+2025 Sep 09 20:39:17 09 Sep 2025 +1,000.00 1,039.07 E-Channel
+Spend & Save) X17",,,,,,,,,
+,,2025 Sep 09 20:40:36,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,000.00",39.07,E-Channel,250909010200009107328546,,,
+,,"OWealth Deposit(from 25090999756vFmkZoOkaOLbJfYJ
+2025 Sep 09 20:41:31 09 Sep 2025 +3,000.00 3,039.07 E-Channel
+Spend & Save) DCF",,,,,,,,,
+,,2025 Sep 09 20:42:34,09 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-3,000.00",39.07,E-Channel,250909010200009470071431,,,
+,,"Auto-save to OWealth
+2025 Sep 09 20:48:59 09 Sep 2025 +1,500.00 1,539.07 E-Channel 250909140300009541610478
+Balance",,,,,,,,,
+,,2025 Sep 10 01:00:04,10 Sep 2025,OWealth Interest Earned,+0.09,"1,539.16",E-Channel,"250910996vgHi4sEho60iOCe0S1p
+SW",,,
+,,"OWealth Deposit(from
+2025 Sep 10 16:26:17 10 Sep 2025 +5,000.00 6,539.16 E-Channel 250910994Cvi1MDiNn5ltsref2upwe
+Spend & Save)",,,,,,,,,
+,,2025 Sep 10 16:29:02,10 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-6,500.00",39.16,E-Channel,250910010200025260461277,,,
+,,"250911994NZYwoKHcnTxSgGHBhx
+2025 Sep 11 00:40:29 11 Sep 2025 OWealth Interest Earned +0.09 39.25 E-Channel
+uzn",,,,,,,,,
+,,2025 Sep 11 17:48:24,11 Sep 2025,"Auto-save to OWealth
+Balance","+23,620.00","23,659.25",E-Channel,250911140300049323858061,,,
+,,"2025 Sep 12 00:58:19 12 Sep 2025 OWealth Interest Earned +0.09 23,659.34 E-Channel 25091299mu7iGhDhptypyPRZf4uan",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Sep 13 00:39:19,13 Sep 2025,OWealth Interest Earned,+8.15,"23,667.49",E-Channel,"250913995CE7qXoKfAruy9dEGaL
+M6N",,,
+,,"OWealth Withdrawal
+2025 Sep 13 07:46:54 13 Sep 2025 -3,100.00 20,567.49 E-Channel 250913010200080551346330
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 16:52:24,13 Sep 2025,"Auto-save to OWealth
+Balance","+3,000.00","23,567.49",E-Channel,250913140300092976333946,,,
+,,"OWealth Withdrawal
+2025 Sep 13 17:12:05 13 Sep 2025 -1,012.00 22,555.49 E-Channel 250913010200093308609801
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 17:12:07,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-202.40,"22,353.09",E-Channel,250913010200093257819038,,,
+,,"OWealth Withdrawal
+2025 Sep 13 17:23:23 13 Sep 2025 -1,012.00 21,341.09 E-Channel 250913010200093607913286
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 17:23:27,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-202.40,"21,138.69",E-Channel,250913010200093455498461,,,
+,,"OWealth Withdrawal
+2025 Sep 13 19:09:42 13 Sep 2025 -750.00 20,388.69 E-Channel 250913010200096378505478
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 19:09:52,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-150.00,"20,238.69",E-Channel,250913010200096277747954,,,
+,,"OWealth Withdrawal
+2025 Sep 13 19:39:50 13 Sep 2025 -100.00 20,138.69 E-Channel 250913010200097321462818
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 13 19:39:53,13 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-20.00,"20,118.69",E-Channel,250913010200097271188361,,,
+,,"250914996PxwSC5VugLQqafrGxR
+2025 Sep 14 01:02:56 14 Sep 2025 OWealth Interest Earned +6.93 20,125.62 E-Channel
+zbf",,,,,,,,,
+,,2025 Sep 14 14:25:46,14 Sep 2025,"OWealth Deposit(from
+Spend & Save)","+5,000.00","25,125.62",E-Channel,"250914997jX47doFQKgQCL2NjerP
+ar",,,
+,,"OWealth Withdrawal
+2025 Sep 14 14:26:22 14 Sep 2025 -5,100.00 20,025.62 E-Channel 250914010200110651691335
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 14 14:26:23,14 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,020.00","19,005.62",E-Channel,250914010200110851383514,,,
+,,"OWealth Deposit(from 250914992AZfdON6HMpqjjHJIUDO
+2025 Sep 14 14:51:41 14 Sep 2025 +1,000.00 20,005.62 E-Channel
+Spend & Save) 2F",,,,,,,,,
+,,2025 Sep 14 14:52:19,14 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-20,000.00",5.62,E-Channel,250914010200111297834636,,,
+,,"2509159956qAX3pbKC2NiaChOOI
+2025 Sep 15 00:38:16 15 Sep 2025 OWealth Interest Earned +0.09 5.71 E-Channel
+D0t",,,,,,,,,
+,,2025 Sep 16 01:02:14,16 Sep 2025,OWealth Interest Earned,+0.09,5.80,E-Channel,250916997HVCS39q1XX2fPglYZiule,,,
+,,"Auto-save to OWealth
+2025 Sep 16 16:37:15 16 Sep 2025 +5,000.00 5,005.80 E-Channel 250916140300156725097897
+Balance",,,,,,,,,
+,,2025 Sep 16 16:45:53,16 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-4,000.00","1,005.80",E-Channel,250916010200156915538123,,,
+,,"OWealth Withdrawal
+2025 Sep 16 16:45:55 16 Sep 2025 -800.00 205.80 E-Channel 250916010200156966663316
+(Transaction Payment)",,,,,,,,,
+,,,,,,,,,,,
+,,2025 Sep 16 16:54:39,16 Sep 2025,"Auto-save to OWealth
+Balance","+19,950.00","20,155.80",E-Channel,250916140300157257248528,,,
+,,"OWealth Withdrawal
+2025 Sep 16 16:55:27 16 Sep 2025 -20,000.00 155.80 E-Channel 250916010200157165772800
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 16 21:51:31,16 Sep 2025,"Auto-save to OWealth
+Balance","+24,935.00","25,090.80",E-Channel,250916140300164131156888,,,
+,,"250917994CDFk6NrV2SpQ5pyaaY
+2025 Sep 17 00:40:07 17 Sep 2025 OWealth Interest Earned +0.09 25,090.89 E-Channel
+vkZ",,,,,,,,,
+,,2025 Sep 17 06:52:13,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-15,000.00","10,090.89",E-Channel,250917010200166599346092,,,
+,,"OWealth Withdrawal
+2025 Sep 17 06:52:14 17 Sep 2025 -3,000.00 7,090.89 E-Channel 250917010200166697033855
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 17 17:03:40,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,100.00","1,990.89",E-Channel,250917010200179841691412,,,
+,,"OWealth Withdrawal
+2025 Sep 17 17:03:41 17 Sep 2025 -1,020.00 970.89 E-Channel 250917010200179791416461
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 17 20:18:49,17 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-500.00,470.89,E-Channel,250917010200184832334267,,,
+,,"OWealth Withdrawal
+2025 Sep 17 20:18:50 17 Sep 2025 -100.00 370.89 E-Channel 250917010200184784940658
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 18 01:01:17,18 Sep 2025,OWealth Interest Earned,+0.12,371.01,E-Channel,"250918994p2oylKyrLbKP1hipM6Q
+MK",,,
+,,"250919994Qx3Au1uuD42v6IBy0o6
+2025 Sep 19 00:42:17 19 Sep 2025 OWealth Interest Earned +0.12 371.13 E-Channel
+gK",,,,,,,,,
+,,2025 Sep 19 16:03:25,19 Sep 2025,"OWealth Deposit(from
+Spend & Save)","+2,650.00","3,021.13",E-Channel,250919991k2ywiUKuOK4tRzf8XcrGY,,,
+,,"OWealth Withdrawal
+2025 Sep 19 16:03:47 19 Sep 2025 -3,000.00 21.13 E-Channel 250919010200223568227547
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 20 00:57:31,20 Sep 2025,OWealth Interest Earned,+0.09,21.22,E-Channel,"2509209938nQPMr3VkpV9hzGRV
+onwi",,,
+,,2025 Sep 21 00:43:55 21 Sep 2025 OWealth Interest Earned +0.09 21.31 E-Channel 25092199PtnHWIfc8yoTRQObrAUgJ,,,,,,,,,
+,,2025 Sep 21 21:02:07,21 Sep 2025,"Auto-save to OWealth
+Balance","+3,250.00","3,271.31",E-Channel,250921140300274431890964,,,
+,,"2025 Sep 22 00:58:33 22 Sep 2025 OWealth Interest Earned +0.09 3,271.40 E-Channel 250922992aFGduIMzx61iCVFVyJjC9",,,,,,,,,
+,,2025 Sep 23 00:46:09,23 Sep 2025,OWealth Interest Earned,+1.12,"3,272.52",E-Channel,25092399YCNQwiLxPiUgaYJ8Pzetf,,,
+,,"OWealth Deposit(from
+2025 Sep 23 17:44:23 23 Sep 2025 +5,000.00 8,272.52 E-Channel 25092399pDkeNTLputDispk89imHn
+Spend & Save)",,,,,,,,,
+,,2025 Sep 23 17:46:27,23 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,000.00","3,272.52",E-Channel,250923010200313535729171,,,
+,,"OWealth Withdrawal
+2025 Sep 23 17:46:28 23 Sep 2025 -1,000.00 2,272.52 E-Channel 250923010200313634377424
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 01:01:40,24 Sep 2025,OWealth Interest Earned,+0.78,"2,273.30",E-Channel,250924991Hj5hQmiB6tBlzyKJk829a,,,
+,,,,,,,,,,,
+,,"2025 Sep 24 10:01:08 24 Sep 2025 OWealth Withdrawal -300.00 1,973.30 E-Channel 250924010200325496603447
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 10:01:10,24 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-60.00,"1,913.30",E-Channel,250924010200325693969148,,,
+,,"OWealth Withdrawal
+2025 Sep 24 10:46:00 24 Sep 2025 -1,000.00 913.30 E-Channel 250924010200326420308817
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 24 10:46:01,24 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-200.00,713.30,E-Channel,250924010200326668772279,,,
+,,"OWealth Deposit(from 250924995LLR0KqIfbg2uCLRmfUo
+2025 Sep 24 13:48:08 24 Sep 2025 +1,250.00 1,963.30 E-Channel
+Spend & Save) nE",,,,,,,,,
+,,2025 Sep 24 16:12:02,24 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,600.00",363.30,E-Channel,250924010200333444644859,,,
+,,"OWealth Withdrawal
+2025 Sep 24 16:12:03 24 Sep 2025 -320.00 43.30 E-Channel 250924010200333294130084
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 25 00:45:47,25 Sep 2025,OWealth Interest Earned,+0.09,43.39,E-Channel,250925994vkVkjo9T7fvLpAbiZkGBX,,,
+,,"250926995fNXej7HjW78akML2mKj
+2025 Sep 26 01:00:44 26 Sep 2025 OWealth Interest Earned +0.09 43.48 E-Channel
+5W",,,,,,,,,
+,,2025 Sep 27 00:44:43,27 Sep 2025,OWealth Interest Earned,+0.09,43.57,E-Channel,"2509279914s36gWHyLx6Zk7snzw
+NgN",,,
+,,"Auto-save to OWealth
+2025 Sep 27 12:51:06 27 Sep 2025 +1,000.00 1,043.57 E-Channel 250927140300399064569065
+Balance",,,,,,,,,
+,,2025 Sep 27 15:05:40,27 Sep 2025,"Auto-save to OWealth
+Balance","+99,950.00","100,993.57",E-Channel,250927140300402123056882,,,
+,,"OWealth Withdrawal
+2025 Sep 27 19:15:59 27 Sep 2025 -5,000.00 95,993.57 E-Channel 250927010200408659735566
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 27 19:16:07,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-1,000.00","94,993.57",E-Channel,250927010200408514253180,,,
+,,"OWealth Withdrawal
+2025 Sep 27 19:16:33 27 Sep 2025 -45,000.00 49,993.57 E-Channel 250927010200408563730722
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 27 19:16:42,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-9,000.00","40,993.57",E-Channel,250927010200408615043665,,,
+,,"OWealth Deposit(from
+2025 Sep 27 19:17:43 27 Sep 2025 +10,000.00 50,993.57 E-Channel 25092799J1ksXfkJdioAOTj5NKbSt
+Spend & Save)",,,,,,,,,
+,,2025 Sep 27 19:18:22,27 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-50,000.00",993.57,E-Channel,250927010200408524135914,,,
+,,"OWealth Deposit(from 25092799MEpIAD9i8DrCPRzxq5p
+2025 Sep 27 19:19:26 27 Sep 2025 +300.00 1,293.57 E-Channel
+Spend & Save) OS",,,,,,,,,
+,,2025 Sep 28 01:04:46,28 Sep 2025,OWealth Interest Earned,+0.09,"1,293.66",E-Channel,"250928996fI1u8nwANgY9aWU1Je
+WBy",,,
+,,"OWealth Withdrawal
+2025 Sep 28 08:20:00 28 Sep 2025 -1,000.00 293.66 E-Channel 250928010200415909464878
+(Transaction Payment)",,,,,,,,,
+,,2025 Sep 28 08:20:03,28 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)",-200.00,93.66,E-Channel,250928010200416006766011,,,
+,,,,,,,,,,,
+"2025 Sep 29 00:46:07 29 Sep 2025 OWealth Interest Earned +0.09 93.75 E-Channel 250929992BU7MXhMJxIBV7tp021E
+Nw",,,,,,,,,,,
+2025 Sep 29 09:06:20,29 Sep 2025,"Auto-save to OWealth
+Balance","+5,000.00","5,093.75",E-Channel,250929140300437277028510,,,,,
+"OWealth Deposit(from 250929996gVzTvf2OJVuS5YSOnC
+2025 Sep 29 09:06:49 29 Sep 2025 +100.00 5,193.75 E-Channel
+Spend & Save) V5o",,,,,,,,,,,
+2025 Sep 29 09:07:10,29 Sep 2025,"OWealth Withdrawal
+(Transaction Payment)","-5,100.00",93.75,E-Channel,250929010200437381183169,,,,,
